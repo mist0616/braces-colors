@@ -124,12 +124,7 @@ export function getNavbarLinks(): NestedMenuItem[] {
     // {
     //   title: t('blocks.title'),
     //   items: [
-    //     {
-    //       title: t('blocks.items.magicui.title'),
-    //       icon: <ComponentIcon className="size-4 shrink-0" />,
-    //       href: Routes.MagicuiBlocks,
-    //       external: false,
-    //     },
+
     //     {
     //       title: t('blocks.items.hero-section.title'),
     //       icon: <FlameIcon className="size-4 shrink-0" />,

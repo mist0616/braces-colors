@@ -25,5 +25,6 @@
     ".source": true,
     ".wrangler": true,
     ".open-next": true
-  }
+  },
+  "typescript.autoClosingTags": false
 }
