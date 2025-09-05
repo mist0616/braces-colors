@@ -24,8 +24,6 @@ interface ProvidersProps {
  * - ActiveThemeProvider: Provides the active theme to the app.
  * - RootProvider: Provides the root provider for Fumadocs UI.
  * - TooltipProvider: Provides the tooltip to the app.
- * - PaymentProvider: Provides the payment state to the app.
- * - CreditsProvider: Provides the credits state to the app.
  */
 export function Providers({ children, locale }: ProvidersProps) {
   const theme = useTheme();

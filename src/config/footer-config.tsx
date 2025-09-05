@@ -47,11 +47,6 @@ export function getFooterLinks(): NestedMenuItem[] {
           href: Routes.About,
           external: false,
         },
-        {
-          title: t('company.items.contact'),
-          href: Routes.Contact,
-          external: false,
-        },
       ],
     },
     {

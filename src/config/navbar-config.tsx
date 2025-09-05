@@ -91,13 +91,6 @@ export function getNavbarLinks(): NestedMenuItem[] {
           external: false,
         },
         {
-          title: t('pages.items.contact.title'),
-          description: t('pages.items.contact.description'),
-          icon: <MailIcon className="size-4 shrink-0" />,
-          href: Routes.Contact,
-          external: false,
-        },
-        {
           title: t('pages.items.roadmap.title'),
           description: t('pages.items.roadmap.description'),
           icon: <SquareKanbanIcon className="size-4 shrink-0" />,
