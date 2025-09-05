@@ -20,16 +20,6 @@ export function getFooterLinks(): NestedMenuItem[] {
 
   return [
     {
-      title: t('product.title'),
-      items: [
-        {
-          title: t('product.items.faq'),
-          href: Routes.FAQ,
-          external: false,
-        },
-      ],
-    },
-    {
       title: t('company.title'),
       items: [
         {
