@@ -19,12 +19,4 @@ export enum Routes {
   AIChat = '/ai/chat',
   AIVideo = '/ai/video',
   AIAudio = '/ai/audio',
-
-  // block routes
-  ContentBlocks = '/blocks/content',
-  TeamBlocks = '/blocks/team',
-  FooterBlocks = '/blocks/footer',
-  ComparatorBlocks = '/blocks/comparator',
-  FAQBlocks = '/blocks/faqs',
-  ContactBlocks = '/blocks/contact',
 }
