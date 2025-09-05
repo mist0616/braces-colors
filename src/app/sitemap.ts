@@ -11,15 +11,7 @@ type Href = Parameters<typeof getLocalePathname>[0]['href'];
 /**
  * static routes for sitemap, you may change the routes for your own
  */
-const staticRoutes = [
-  '/',
-  '/about',
-  '/contact',
-  '/privacy',
-  '/terms',
-  '/auth/login',
-  '/auth/register',
-];
+const staticRoutes = ['/', '/about', '/contact', '/privacy', '/terms'];
 
 /**
  * Generate a sitemap for the website
