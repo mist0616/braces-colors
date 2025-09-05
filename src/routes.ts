@@ -23,13 +23,8 @@ export enum Routes {
   // block routes
   MagicuiBlocks = '/magicui',
   HeroBlocks = '/blocks/hero-section',
-  LogoCloudBlocks = '/blocks/logo-cloud',
-  IntegrationsBlocks = '/blocks/integrations',
   ContentBlocks = '/blocks/content',
-  StatsBlocks = '/blocks/stats',
   TeamBlocks = '/blocks/team',
-  TestimonialsBlocks = '/blocks/testimonials',
-  CallToActionBlocks = '/blocks/call-to-action',
   FooterBlocks = '/blocks/footer',
   ComparatorBlocks = '/blocks/comparator',
   FAQBlocks = '/blocks/faqs',

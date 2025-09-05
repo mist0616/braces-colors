@@ -286,10 +286,6 @@
           "logo-cloud": {
             "title": "Logo Cloud 组件"
           },
-
-          "integrations": {
-            "title": "Integrations 组件"
-          },
           "content": {
             "title": "Content 组件"
           },
@@ -469,44 +465,6 @@
     },
     "logocloud": {
       "title": "您最爱公司都是我们的合作伙伴"
-    },
-    "integration": {
-      "title": "集成",
-      "subtitle": "与您最喜欢的工具集成",
-      "description": "无缝连接流行的平台和服务，以增强您的工作流程。",
-      "learnMore": "了解更多",
-      "items": {
-        "item-1": {
-          "title": "Google Gemini",
-          "description": "这里是Google Gemini的描述，详细介绍Google Gemini的功能和优势。"
-        },
-        "item-2": {
-          "title": "Replit",
-          "description": "这里是Replit的描述，详细介绍Replit的功能和优势。"
-        },
-        "item-3": {
-          "title": "MagicUI",
-          "description": "这里是MagicUI的描述，详细介绍MagicUI的功能和优势。"
-        },
-        "item-4": {
-          "title": "VSCodium",
-          "description": "这里是VSCodium的描述，详细介绍VSCodium的功能和优势。"
-        },
-        "item-5": {
-          "title": "MediaWiki",
-          "description": "这里是MediaWiki的描述，详细介绍MediaWiki的功能和优势。"
-        },
-        "item-6": {
-          "title": "Google PaLM",
-          "description": "这里是Google PaLM的描述，详细介绍Google PaLM的功能和优势。"
-        }
-      }
-    },
-    "integration2": {
-      "title": "与您最喜欢的工具集成",
-      "description": "无缝连接流行的平台和服务，以增强您的工作流程。",
-      "primaryButton": "开始使用",
-      "secondaryButton": "查看演示"
     },
 
     "pricing": {
