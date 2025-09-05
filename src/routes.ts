@@ -5,7 +5,6 @@ export enum Routes {
   Root = '/',
 
   // marketing pages
-  About = '/about',
   PrivacyPolicy = '/privacy',
   TermsOfService = '/terms',
 }

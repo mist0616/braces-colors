@@ -68,69 +68,6 @@
       "checkoutFailed": "Failed to open checkout page"
     }
   },
-  "PricePlans": {
-    "free": {
-      "name": "Free",
-      "description": "Basic features for personal use",
-      "features": {
-        "feature-1": "Up to 3 projects",
-        "feature-2": "1 GB storage",
-        "feature-3": "Basic analytics",
-        "feature-4": "Community support"
-      },
-      "limits": {
-        "limit-1": "Custom domains",
-        "limit-2": "Custom branding",
-        "limit-3": "Lifetime updates"
-      }
-    },
-    "pro": {
-      "name": "Pro",
-      "description": "Advanced features for professionals",
-      "features": {
-        "feature-1": "Unlimited projects",
-        "feature-2": "10 GB storage",
-        "feature-3": "Advanced analytics",
-        "feature-4": "Priority support",
-        "feature-5": "Custom domains"
-      },
-      "limits": {
-        "limit-1": "Custom branding",
-        "limit-2": "Lifetime updates"
-      }
-    },
-    "lifetime": {
-      "name": "Lifetime",
-      "description": "Premium features with one-time payment",
-      "features": {
-        "feature-1": "All Pro features",
-        "feature-2": "100 GB storage",
-        "feature-3": "Dedicated support",
-        "feature-4": "Enterprise-grade security",
-        "feature-5": "Advanced integrations",
-        "feature-6": "Custom branding",
-        "feature-7": "Lifetime updates"
-      }
-    }
-  },
-  "CreditPackages": {
-    "basic": {
-      "name": "Basic",
-      "description": "Basic credits package description"
-    },
-    "standard": {
-      "name": "Standard",
-      "description": "Standard credits package description"
-    },
-    "premium": {
-      "name": "Premium",
-      "description": "Premium credits package description"
-    },
-    "enterprise": {
-      "name": "Enterprise",
-      "description": "Enterprise credits package description"
-    }
-  },
   "NotFoundPage": {
     "title": "404",
     "message": "Sorry, the page you are looking for does not exist.",
@@ -140,29 +77,6 @@
     "title": "Oops! Something went wrong!",
     "tryAgain": "Try again",
     "backToHome": "Back to home"
-  },
-  "AboutPage": {
-    "title": "About",
-    "description": "This is Tool Demo, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better.",
-    "authorName": "Tool Demo",
-    "authorBio": "AI SaaS Boilerplate",
-    "introduction": "👋 Hi there! This is Tool Demo, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better. If you have any questions, welcome to contact me.",
-    "talkWithMe": "Talk with me",
-    "followMe": "Follow me on X"
-  },
-
-  "Newsletter": {
-    "title": "Newsletter",
-    "subtitle": "Join the community",
-    "description": "Subscribe to our newsletter for the latest news and updates",
-    "form": {
-      "email": "Email",
-      "subscribe": "Subscribe",
-      "subscribing": "Subscribing...",
-      "success": "Subscribed successfully",
-      "fail": "Failed to subscribe",
-      "emailValidation": "Please enter a valid email address"
-    }
   },
 
   "BlogPage": {
@@ -215,28 +129,12 @@
           "chat": {
             "title": "AI Chat",
             "description": "Show how to use AI to chat with your customers"
-          },
-          "video": {
-            "title": "AI Video",
-            "description": "Show how to use AI to generate amazing videos"
-          },
-          "audio": {
-            "title": "AI Audio",
-            "description": "Show how to use AI to generate wonderful audio"
           }
         }
       },
       "pages": {
         "title": "Pages",
         "items": {
-          "about": {
-            "title": "About",
-            "description": "Learn more about our company, mission, and values"
-          },
-          "contact": {
-            "title": "Contact",
-            "description": "Get in touch with our team for support or inquiries"
-          },
           "privacyPolicy": {
             "title": "Privacy Policy",
             "description": "How we protect and handle your data"
@@ -285,9 +183,6 @@
           },
           "forgot-password": {
             "title": "Forgot Password Blocks"
-          },
-          "contact": {
-            "title": "Contact Blocks"
           }
         }
       }
@@ -305,13 +200,6 @@
         "items": {
           "blog": "Blog",
           "docs": "Documentation"
-        }
-      },
-      "company": {
-        "title": "Company",
-        "items": {
-          "about": "About",
-          "contact": "Contact"
         }
       },
       "legal": {
@@ -435,73 +323,73 @@
           "name": "Jonathan Yombo",
           "role": "Software Engineer",
           "image": "https://randomuser.me/api/portraits/men/1.jpg",
-          "quote": "MkSaaS is really extraordinary and very practical, no need to break your head. A real gold mine."
+          "quote": "Tool Demo is really extraordinary and very practical, no need to break your head. A real gold mine."
         },
         "item-2": {
           "name": "Yves Kalume",
           "role": "GDE - Android",
           "image": "https://randomuser.me/api/portraits/men/6.jpg",
-          "quote": "With no experience in webdesign I just redesigned my entire website in a few minutes with tailwindcss thanks to MkSaaS."
+          "quote": "With no experience in webdesign I just redesigned my entire website in a few minutes with tailwindcss thanks to Tool Demo."
         },
         "item-3": {
           "name": "Yucel Faruksahan",
           "role": "Tailkits Creator",
           "image": "https://randomuser.me/api/portraits/men/7.jpg",
-          "quote": "Great work on MkSaaS template. This is one of the best personal website that I have seen so far :)"
+          "quote": "Great work on Tool Demo template. This is one of the best personal website that I have seen so far :)"
         },
         "item-4": {
           "name": "Anonymous author",
           "role": "Product Manager",
           "image": "https://randomuser.me/api/portraits/men/8.jpg",
-          "quote": "I downloaded the one of MkSaaS template which is very clear to understand at the start and you could modify the codes/blocks to fit perfectly on your purpose of the page."
+          "quote": "I downloaded the one of Tool Demo template which is very clear to understand at the start and you could modify the codes/blocks to fit perfectly on your purpose of the page."
         },
         "item-5": {
           "name": "Shekinah Tshiokufila",
           "role": "Senior Software Engineer",
           "image": "https://randomuser.me/api/portraits/men/4.jpg",
-          "quote": "MkSaaS is redefining the standard of web design, with these blocks it provides an easy and efficient way for those who love beauty but may lack the time to implement it."
+          "quote": "Tool Demo is redefining the standard of web design, with these blocks it provides an easy and efficient way for those who love beauty but may lack the time to implement it."
         },
         "item-6": {
           "name": "Oketa Fred",
           "role": "Fullstack Developer",
           "image": "https://randomuser.me/api/portraits/men/2.jpg",
-          "quote": "I absolutely love MkSaaS! The component blocks are beautifully designed and easy to use, which makes creating a great-looking website a breeze."
+          "quote": "I absolutely love Tool Demo! The component blocks are beautifully designed and easy to use, which makes creating a great-looking website a breeze."
         },
         "item-7": {
           "name": "Zeki",
           "role": "Founder of ChatExtend",
           "image": "https://randomuser.me/api/portraits/men/5.jpg",
-          "quote": "MkSaaS is the perfect fusion of simplicity and versatility, enabling us to create UIs that are as stunning as they are user-friendly."
+          "quote": "Tool Demo is the perfect fusion of simplicity and versatility, enabling us to create UIs that are as stunning as they are user-friendly."
         },
         "item-8": {
           "name": "Joseph Kitheka",
           "role": "Fullstack Developer",
           "image": "https://randomuser.me/api/portraits/men/9.jpg",
-          "quote": "MkSaaS has transformed the way I develop web applications. Their extensive collection of UI components, blocks, and templates has significantly accelerated my workflow."
+          "quote": "Tool Demo has transformed the way I develop web applications. Their extensive collection of UI components, blocks, and templates has significantly accelerated my workflow."
         },
         "item-9": {
           "name": "Khatab Wedaa",
           "role": "MerakiUI Creator",
           "image": "https://randomuser.me/api/portraits/men/10.jpg",
-          "quote": "MkSaaS is an elegant, clean, and responsive tailwind css components it's very helpful to start fast with your project."
+          "quote": "Tool Demo is an elegant, clean, and responsive tailwind css components it's very helpful to start fast with your project."
         },
         "item-10": {
           "name": "Rodrigo Aguilar",
           "role": "TailwindAwesome Creator",
           "image": "https://randomuser.me/api/portraits/men/11.jpg",
-          "quote": "I love MkSaaS ❤️. The component blocks are well-structured, simple to use, and beautifully designed. It makes it really easy to have a good-looking website in no time."
+          "quote": "I love Tool Demo ❤️. The component blocks are well-structured, simple to use, and beautifully designed. It makes it really easy to have a good-looking website in no time."
         },
         "item-11": {
           "name": "Eric Ampire",
           "role": "@GoogleDevExpert for Android",
           "image": "https://randomuser.me/api/portraits/men/12.jpg",
-          "quote": "MkSaaS templates are the perfect solution for anyone who wants to create a beautiful and functional website without any web design experience."
+          "quote": "Tool Demo templates are the perfect solution for anyone who wants to create a beautiful and functional website without any web design experience."
         },
         "item-12": {
           "name": "Roland Tubonge",
           "role": "Software Engineer",
           "image": "https://randomuser.me/api/portraits/men/13.jpg",
-          "quote": "MkSaaS is so well designed that even with a very poor knowledge of web design you can do miracles. Let yourself be seduced!"
+          "quote": "Tool Demo is so well designed that even with a very poor knowledge of web design you can do miracles. Let yourself be seduced!"
         }
       }
     },
@@ -576,21 +464,5 @@
         "description": "Get organized, easy-to-read results with clear sections and actionable insights"
       }
     }
-  },
-  "AIImagePage": {
-    "title": "AI Image",
-    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
-  },
-  "AIChatPage": {
-    "title": "AI Chat",
-    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
-  },
-  "AIVideoPage": {
-    "title": "AI Video",
-    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
-  },
-  "AIAudioPage": {
-    "title": "AI Audio",
-    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
   }
 }
