@@ -1,8 +1,8 @@
 {
   "Metadata": {
     "name": "Tool Demo",
-    "title": "MkSaaS - The Best AI SaaS Boilerplate",
-    "description": "MkSaaS is the best AI SaaS boilerplate. Make AI SaaS in days, simply and effortlessly"
+    "title": "Tool Demo - The Best AI SaaS Boilerplate",
+    "description": "Tool Demo is the best AI SaaS boilerplate. Make AI SaaS in days, simply and effortlessly"
   },
   "Common": {
     "login": "Log in",
@@ -143,10 +143,10 @@
   },
   "AboutPage": {
     "title": "About",
-    "description": "This is MkSaaS, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better.",
-    "authorName": "MkSaaS",
+    "description": "This is Tool Demo, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better.",
+    "authorName": "Tool Demo",
     "authorBio": "AI SaaS Boilerplate",
-    "introduction": "👋 Hi there! This is MkSaaS, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better. If you have any questions, welcome to contact me.",
+    "introduction": "👋 Hi there! This is Tool Demo, an AI SaaS template built with modern technologies, helping you build your SaaS faster and better. If you have any questions, welcome to contact me.",
     "talkWithMe": "Talk with me",
     "followMe": "Follow me on X"
   },
@@ -186,7 +186,7 @@
     "previousPage": "Previous",
     "nextPage": "Next",
     "chooseLanguage": "Select language",
-    "title": "MkSaaS Docs",
+    "title": "Tool Demo Docs",
     "homepage": "Homepage",
     "blog": "Blog"
   },
@@ -277,9 +277,6 @@
           "comparator": {
             "title": "Comparator Blocks"
           },
-          "faq": {
-            "title": "FAQ Blocks"
-          },
           "login": {
             "title": "Login Blocks"
           },
@@ -300,8 +297,7 @@
       "product": {
         "title": "Product",
         "items": {
-          "pricing": "Pricing",
-          "faq": "FAQ"
+          "pricing": "Pricing"
         }
       },
       "resources": {
@@ -420,7 +416,7 @@
     }
   },
   "HomePage": {
-    "title": "MkSaaS",
+    "title": "Tool Demo",
     "description": "Make AI SaaS in days, simply and effortlessly",
     "logocloud": {
       "title": "Your favorite companies are our partners"
@@ -430,32 +426,6 @@
       "title": "Pricing",
       "subtitle": "Pricing",
       "description": "Choose the plan that works best for you"
-    },
-    "faqs": {
-      "title": "FAQ",
-      "subtitle": "Frequently Asked Questions",
-      "items": {
-        "item-1": {
-          "question": "Do you offer a free trial?",
-          "answer": "Yes, we offer a 7-day free trial."
-        },
-        "item-2": {
-          "question": "How do I cancel my subscription?",
-          "answer": "You can cancel your subscription by visiting the billing page."
-        },
-        "item-3": {
-          "question": "Can I change my plan?",
-          "answer": "Yes, you can change your plan at any time by visiting the billing page."
-        },
-        "item-4": {
-          "question": "What is the refund policy?",
-          "answer": "We offer a 30-day money-back guarantee if you are not happy with our product."
-        },
-        "item-5": {
-          "question": "Can't find what you're looking for?",
-          "answer": "Please contact our customer support team at support@mksaas.com"
-        }
-      }
     },
     "testimonials": {
       "title": "Testimonials",
@@ -537,8 +507,8 @@
     },
     "stats": {
       "title": "Stats",
-      "subtitle": "MkSaaS in numbers",
-      "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly",
+      "subtitle": "Tool Demo in numbers",
+      "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly",
       "items": {
         "item-1": {
           "title": "Stars on GitHub"
@@ -553,7 +523,7 @@
     },
     "calltoaction": {
       "title": "Start Building",
-      "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly",
+      "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly",
       "primaryButton": "Get Started",
       "secondaryButton": "See Demo"
     }
@@ -609,18 +579,18 @@
   },
   "AIImagePage": {
     "title": "AI Image",
-    "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly"
+    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
   },
   "AIChatPage": {
     "title": "AI Chat",
-    "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly"
+    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
   },
   "AIVideoPage": {
     "title": "AI Video",
-    "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly"
+    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
   },
   "AIAudioPage": {
     "title": "AI Audio",
-    "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly"
+    "description": "Tool Demo lets you make AI SaaS in days, simply and effortlessly"
   }
 }

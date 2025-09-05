@@ -1,8 +1,8 @@
 {
   "Metadata": {
     "name": "Tool Demo",
-    "title": "MkSaaS - 最好的 AI SaaS 模板",
-    "description": "MkSaaS 是构建 AI SaaS 的最佳模板，使用 MkSaaS 可以在几天内轻松构建您的 AI SaaS，简单且毫不费力。"
+    "title": "Tool Demo - 最好的 AI SaaS 模板",
+    "description": "Tool Demo 是构建 AI SaaS 的最佳模板，使用 Tool Demo 可以在几天内轻松构建您的 AI SaaS，简单且毫不费力。"
   },
   "Common": {
     "login": "登录",
@@ -143,10 +143,10 @@
   },
   "AboutPage": {
     "title": "关于我们",
-    "description": "MkSaaS 是一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
-    "authorName": "MkSaaS",
+    "description": "Tool Demo 是一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
+    "authorName": "Tool Demo",
     "authorBio": "最好的 AI SaaS 模板",
-    "introduction": "👋 你好，这里是 MkSaaS，一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
+    "introduction": "👋 你好，这里是 Tool Demo，一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
     "talkWithMe": "联系我",
     "followMe": "关注我"
   },
@@ -185,7 +185,7 @@
     "previousPage": "上一页",
     "nextPage": "下一页",
     "chooseLanguage": "选择语言",
-    "title": "MkSaaS文档",
+    "title": "Tool Demo文档",
     "homepage": "首页",
     "blog": "博客"
   },
@@ -277,9 +277,6 @@
           "comparator": {
             "title": "Comparator 组件"
           },
-          "faq": {
-            "title": "FAQ 组件"
-          },
           "login": {
             "title": "Login 组件"
           },
@@ -296,12 +293,11 @@
       }
     },
     "footer": {
-      "tagline": "使用 MkSaaS 在几天内轻松构建您的 AI SaaS",
+      "tagline": "使用 Tool Demo 在几天内轻松构建您的 AI SaaS",
       "product": {
         "title": "产品",
         "items": {
-          "pricing": "价格",
-          "faq": "常见问题"
+          "pricing": "价格"
         }
       },
       "resources": {
@@ -420,8 +416,8 @@
     }
   },
   "HomePage": {
-    "title": "MkSaaS",
-    "description": "使用 MkSaaS 在几天内轻松构建您的 AI SaaS 产品",
+    "title": "Tool Demo",
+    "description": "使用 Tool Demo 在几天内轻松构建您的 AI SaaS 产品",
     "logocloud": {
       "title": "您最爱公司都是我们的合作伙伴"
     },
@@ -430,32 +426,6 @@
       "title": "价格",
       "subtitle": "价格",
       "description": "选择最适合您的付费计划"
-    },
-    "faqs": {
-      "title": "常见问题",
-      "subtitle": "如果您有任何问题，请随时联系我们",
-      "items": {
-        "item-1": {
-          "question": "你们提供免费试用吗？",
-          "answer": "是的，我们提供7天的免费试用。"
-        },
-        "item-2": {
-          "question": "如何取消我的订阅？",
-          "answer": "您可以通过访问账单页面取消您的订阅。"
-        },
-        "item-3": {
-          "question": "我可以更改我的计划吗？",
-          "answer": "是的，您可以随时通过访问账单页面更改您的计划。"
-        },
-        "item-4": {
-          "question": "你们的退款政策是什么？",
-          "answer": "是的，我们提供30天的退款保证。"
-        },
-        "item-5": {
-          "question": "找不到您想问的问题？",
-          "answer": "请联系我们的客户支持团队，邮箱地址：support@mksaas.com"
-        }
-      }
     },
     "testimonials": {
       "title": "客户评价",
@@ -537,23 +507,23 @@
     },
     "stats": {
       "title": "统计",
-      "subtitle": "MkSaaS 相关的数字",
-      "description": "MkSaaS 可让您在几天内轻松构建您的 AI SaaS",
+      "subtitle": "Tool Demo 相关的数字",
+      "description": "Tool Demo 可让您在几天内轻松构建您的 AI SaaS",
       "items": {
         "item-1": {
           "title": "GitHub 上的星星"
         },
         "item-2": {
-          "title": "使用 MkSaaS 的活跃用户"
+          "title": "使用 Tool Demo 的活跃用户"
         },
         "item-3": {
-          "title": "使用 MkSaaS 启动的应用"
+          "title": "使用 Tool Demo 启动的应用"
         }
       }
     },
     "calltoaction": {
       "title": "开始构建",
-      "description": "MkSaaS 可让您在几天内轻松构建您的 AI SaaS",
+      "description": "Tool Demo 可让您在几天内轻松构建您的 AI SaaS",
       "primaryButton": "开始使用",
       "secondaryButton": "查看演示"
     }
@@ -609,18 +579,18 @@
   },
   "AIImagePage": {
     "title": "AI 图片",
-    "description": "MkSaaS 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
+    "description": "Tool Demo 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
   },
   "AIChatPage": {
     "title": "AI 聊天",
-    "description": "MkSaaS 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
+    "description": "Tool Demo 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
   },
   "AIVideoPage": {
     "title": "AI 视频",
-    "description": "MkSaaS 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
+    "description": "Tool Demo 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
   },
   "AIAudioPage": {
     "title": "AI 音频",
-    "description": "MkSaaS 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
+    "description": "Tool Demo 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
   }
 }
