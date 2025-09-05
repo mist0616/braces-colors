@@ -5,6 +5,7 @@
     "description": "Tool Demo 是构建 AI SaaS 的最佳模板，使用 Tool Demo 可以在几天内轻松构建您的 AI SaaS，简单且毫不费力。"
   },
   "Common": {
+    "language": "切换语言",
     "mode": {
       "label": "切换模式",
       "light": "浅色模式",

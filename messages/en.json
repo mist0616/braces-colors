@@ -5,6 +5,7 @@
     "description": "Tool Demo is the best AI SaaS boilerplate. Make AI SaaS in days, simply and effortlessly"
   },
   "Common": {
+    "language": "Switch language",
     "mode": {
       "label": "Toggle mode",
       "light": "Light",
