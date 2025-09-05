@@ -21,7 +21,6 @@ export enum Routes {
   AIAudio = '/ai/audio',
 
   // block routes
-  HeroBlocks = '/blocks/hero-section',
   ContentBlocks = '/blocks/content',
   TeamBlocks = '/blocks/team',
   FooterBlocks = '/blocks/footer',

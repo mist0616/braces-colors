@@ -1,6 +1,4 @@
 import FaqSection from '@/components/blocks/faqs/faqs';
-
-import HeroSection from '@/components/blocks/hero/hero';
 import { constructMetadata } from '@/lib/metadata';
 import { getUrlWithLocale } from '@/lib/urls/urls';
 import type { Metadata } from 'next';
@@ -37,7 +35,6 @@ export default async function HomePage(props: HomePageProps) {
   return (
     <>
       <div className="flex flex-col">
-        <HeroSection />
         <FaqSection />
       </div>
     </>

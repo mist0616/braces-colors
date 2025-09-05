@@ -276,9 +276,6 @@
       "blocks": {
         "title": "Blocks",
         "items": {
-          "hero-section": {
-            "title": "Hero Blocks"
-          },
           "logo-cloud": {
             "title": "Logo Cloud Blocks"
           },
@@ -452,13 +449,6 @@
   "HomePage": {
     "title": "MkSaaS",
     "description": "Make AI SaaS in days, simply and effortlessly",
-    "hero": {
-      "title": "Make AI SaaS in days, simply and effortlessly",
-      "description": "The is a demo website built with MkSaaS, a Next.js SaaS boilerplate to help you build your AI SaaS faster and better.",
-      "introduction": "Introducing MkSaaS Boilerplate",
-      "primary": "Get Started",
-      "secondary": "See Demo"
-    },
     "logocloud": {
       "title": "Your favorite companies are our partners"
     },

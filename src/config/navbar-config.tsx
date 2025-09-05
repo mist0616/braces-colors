@@ -126,12 +126,6 @@ export function getNavbarLinks(): NestedMenuItem[] {
     //   items: [
 
     //     {
-    //       title: t('blocks.items.hero-section.title'),
-    //       icon: <FlameIcon className="size-4 shrink-0" />,
-    //       href: Routes.HeroBlocks,
-    //       external: false,
-    //     },
-    //     {
     //       title: t('blocks.items.logo-cloud.title'),
     //       icon: <SquareCodeIcon className="size-4 shrink-0" />,
     //       href: Routes.LogoCloudBlocks,
