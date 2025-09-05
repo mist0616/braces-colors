@@ -5,10 +5,6 @@
     "description": "Tool Demo 是构建 AI SaaS 的最佳模板，使用 Tool Demo 可以在几天内轻松构建您的 AI SaaS，简单且毫不费力。"
   },
   "Common": {
-    "login": "登录",
-    "logout": "退出",
-    "signUp": "注册",
-    "language": "切换语言",
     "mode": {
       "label": "切换模式",
       "light": "浅色模式",
@@ -28,45 +24,7 @@
     "saving": "保存中...",
     "loading": "加载中...",
     "cancel": "取消",
-    "logoutFailed": "退出失败",
-    "table": {
-      "totalRecords": "总共 {count} 条记录",
-      "noResults": "无结果",
-      "loading": "加载中...",
-      "columns": "列",
-      "rowsPerPage": "每页行数",
-      "page": "页",
-      "firstPage": "第一页",
-      "lastPage": "最后一页",
-      "nextPage": "下一页",
-      "previousPage": "上一页",
-      "ascending": "升序",
-      "descending": "降序"
-    }
-  },
-  "PricingPage": {
-    "title": "价格",
-    "description": "选择最适合您的付费计划",
-    "subtitle": "选择最适合您的付费计划",
-    "monthly": "月付",
-    "yearly": "年付",
-    "PricingCard": {
-      "freePrice": "$0",
-      "perMonth": "/月",
-      "perYear": "/年",
-      "popular": "热门",
-      "currentPlan": "当前方案",
-      "yourCurrentPlan": "您的当前方案",
-      "getStartedForFree": "开始免费使用",
-      "getLifetimeAccess": "开启终身会员",
-      "getStarted": "开始免费试用",
-      "notAvailable": "不可用",
-      "daysTrial": "{days} 天试用期"
-    },
-    "CheckoutButton": {
-      "loading": "加载中...",
-      "checkoutFailed": "打开结账页面失败"
-    }
+    "logoutFailed": "退出失败"
   },
   "NotFoundPage": {
     "title": "404",
@@ -77,19 +35,6 @@
     "title": "哎呀！出错了！",
     "tryAgain": "重试",
     "backToHome": "返回首页"
-  },
-  "BlogPage": {
-    "title": "博客",
-    "description": "来自我们的团队最新新闻和更新",
-    "subtitle": "来自我们的团队最新新闻和更新",
-    "author": "作者",
-    "categories": "分类",
-    "tableOfContents": "目录",
-    "readTime": "{minutes} 分钟阅读",
-    "all": "全部",
-    "noPostsFound": "没有找到文章",
-    "allPosts": "全部文章",
-    "morePosts": "更多文章"
   },
   "DocsPage": {
     "toc": "目录",
@@ -104,108 +49,9 @@
     "blog": "博客"
   },
   "Marketing": {
-    "navbar": {
-      "pricing": {
-        "title": "价格"
-      },
-      "blog": {
-        "title": "博客"
-      },
-      "docs": {
-        "title": "文档"
-      },
-      "ai": {
-        "title": "AI 工具",
-        "items": {
-          "text": {
-            "title": "AI 文本",
-            "description": "展示如何使用 AI 生成精彩文本"
-          },
-          "image": {
-            "title": "AI 图像",
-            "description": "展示如何使用 AI 生成精美图像"
-          },
-          "chat": {
-            "title": "AI 聊天",
-            "description": "展示如何使用 AI 与客户聊天"
-          }
-        }
-      },
-      "pages": {
-        "title": "内置页面",
-        "items": {
-          "about": {
-            "title": "关于我们",
-            "description": "了解更多关于我们的公司、使命和价值观"
-          },
-
-          "privacyPolicy": {
-            "title": "隐私政策",
-            "description": "关于我们将如何保护和处理您在网站上的数据"
-          },
-          "termsOfService": {
-            "title": "服务条款",
-            "description": "关于您与我们公司之间的法律协议和条款"
-          }
-        }
-      },
-      "blocks": {
-        "title": "内置组件",
-        "items": {
-          "logo-cloud": {
-            "title": "Logo Cloud 组件"
-          },
-          "content": {
-            "title": "Content 组件"
-          },
-          "stats": {
-            "title": "Stats 组件"
-          },
-          "team": {
-            "title": "Team 组件"
-          },
-          "testimonials": {
-            "title": "Testimonials 组件"
-          },
-          "callToAction": {
-            "title": "Call to Action 组件"
-          },
-          "footer": {
-            "title": "Footer 组件"
-          },
-          "pricing": {
-            "title": "Pricing 组件"
-          },
-          "comparator": {
-            "title": "Comparator 组件"
-          },
-          "login": {
-            "title": "Login 组件"
-          },
-          "signup": {
-            "title": "Signup 组件"
-          },
-          "forgot-password": {
-            "title": "Forgot Password 组件"
-          }
-        }
-      }
-    },
+    "navbar": {},
     "footer": {
       "tagline": "使用 Tool Demo 在几天内轻松构建您的 AI SaaS",
-      "product": {
-        "title": "产品",
-        "items": {
-          "pricing": "价格"
-        }
-      },
-      "resources": {
-        "title": "资源",
-        "items": {
-          "blog": "博客",
-          "docs": "文档"
-        }
-      },
       "legal": {
         "title": "法律",
         "items": {
@@ -213,211 +59,10 @@
           "termsOfService": "服务条款"
         }
       }
-    },
-    "avatar": {
-      "dashboard": "工作台",
-      "billing": "账单",
-      "credits": "积分",
-      "settings": "设置"
-    }
-  },
-  "Dashboard": {
-    "dashboard": {
-      "title": "仪表盘"
-    },
-    "admin": {
-      "title": "系统管理",
-      "users": {
-        "title": "用户管理",
-        "fakeData": "注：只为演示功能，数据为假数据，封禁功能不可用",
-        "error": "获取用户失败",
-        "search": "搜索用户...",
-        "columns": {
-          "columns": "显示列",
-          "name": "姓名",
-          "email": "邮箱",
-          "role": "角色",
-          "createdAt": "创建时间",
-          "customerId": "客户ID",
-          "status": "状态",
-          "banReason": "封禁原因",
-          "banExpires": "封禁到期时间"
-        },
-        "admin": "管理员",
-        "user": "用户",
-        "email": {
-          "verified": "邮箱已验证",
-          "unverified": "邮箱未验证"
-        },
-        "emailCopied": "邮箱已复制到剪贴板",
-        "banned": "账号被封禁",
-        "active": "账号正常",
-        "joined": "加入时间",
-        "updated": "更新时间",
-        "ban": {
-          "reason": "封禁原因",
-          "reasonPlaceholder": "请输入封禁该用户的原因",
-          "defaultReason": "垃圾信息",
-          "never": "永不解禁",
-          "expires": "封禁到期时间",
-          "selectDate": "选择日期",
-          "button": "封禁用户",
-          "success": "用户已被封禁",
-          "error": "封禁用户失败"
-        },
-        "unban": {
-          "button": "解除封禁",
-          "success": "用户已被解除封禁",
-          "error": "解除封禁失败"
-        },
-        "close": "关闭"
-      }
-    },
-    "settings": {
-      "title": "设置",
-      "profile": {
-        "title": "账户",
-        "description": "管理您的账户信息",
-        "avatar": {
-          "title": "头像",
-          "description": "点击上传按钮上传自定义头像",
-          "recommendation": "头像是可选的，但强烈推荐设置",
-          "uploading": "上传中...",
-          "uploadAvatar": "上传头像",
-          "success": "头像更新成功",
-          "fail": "更新头像失败"
-        },
-        "name": {
-          "title": "名字",
-          "description": "请输入您的名字",
-          "placeholder": "名字",
-          "minLength": "请至少使用 3 个字符",
-          "maxLength": "请最多使用 30 个字符",
-          "hint": "请使用 3-30 个字符",
-          "success": "名字更新成功",
-          "fail": "更新名字失败",
-          "saving": "保存中...",
-          "save": "保存"
-        }
-      }
-    },
-    "upgrade": {
-      "title": "升级",
-      "description": "升级到Pro以获取所有功能",
-      "button": "升级"
     }
   },
   "HomePage": {
     "title": "Tool Demo",
-    "description": "使用 Tool Demo 在几天内轻松构建您的 AI SaaS 产品",
-    "logocloud": {
-      "title": "您最爱公司都是我们的合作伙伴"
-    },
-
-    "pricing": {
-      "title": "价格",
-      "subtitle": "价格",
-      "description": "选择最适合您的付费计划"
-    },
-    "testimonials": {
-      "title": "客户评价",
-      "subtitle": "我们的客户对我们的评价",
-      "items": {
-        "item-1": {
-          "name": "Jonathan Yombo",
-          "role": "软件工程师",
-          "image": "https://randomuser.me/api/portraits/men/1.jpg",
-          "quote": "MkSaaS 非常出色且实用，无需费心，一个真正的金矿。"
-        },
-        "item-2": {
-          "name": "Yves Kalume",
-          "role": "Android GDE",
-          "image": "https://randomuser.me/api/portraits/men/6.jpg",
-          "quote": "没有网页设计经验，我只需几分钟就可以用 Tailwindcss 重新设计我的整个网站，感谢 MkSaaS。"
-        },
-        "item-3": {
-          "name": "Yucel Faruksahan",
-          "role": "Tailkits 创建者",
-          "image": "https://randomuser.me/api/portraits/men/7.jpg",
-          "quote": "MkSaaS 模板做得很好，这是我见过最好的 SaaS 模板，没有之一 :)"
-        },
-        "item-4": {
-          "name": "Anonymous author",
-          "role": "产品经理",
-          "image": "https://randomuser.me/api/portraits/men/8.jpg",
-          "quote": "我不熟悉 Tailwind，我想自己做一些页面，我在网上搜索了很多英雄页面和区块。然而，大多数都没有给我一个清晰的想法，或者需要一些 HTML/CSS 编码背景来从原始文件中做一些更改，或者太贵了。我下载了其中一个 MkSaaS 模板，它非常容易理解，你可以在开始时修改代码/区块以完美地适应你的页面目的。"
-        },
-        "item-5": {
-          "name": "Shekinah Tshiokufila",
-          "role": "高级软件工程师",
-          "image": "https://randomuser.me/api/portraits/men/4.jpg",
-          "quote": "MkSaaS 正在重新定义网页设计标准，这些区块为那些喜欢美丽但可能缺乏时间实现它的人提供了简单且高效的方式。我只能推荐这个不可思议的奇迹。"
-        },
-        "item-6": {
-          "name": "Oketa Fred",
-          "role": "全栈开发工程师",
-          "image": "https://randomuser.me/api/portraits/men/2.jpg",
-          "quote": "我绝对喜欢 MkSaaS！这些组件区块设计精美且易于使用，使创建一个出色的网站变得轻而易举。"
-        },
-        "item-7": {
-          "name": "Zeki",
-          "role": "ChatExtend 创始人",
-          "image": "https://randomuser.me/api/portraits/men/5.jpg",
-          "quote": "使用 MkSaaS 就像解锁了一个秘密的设计超能力。它是简单性和多功能性的完美融合，使我们能够创建既令人惊叹又用户友好的界面。"
-        },
-        "item-8": {
-          "name": "Joseph Kitheka",
-          "role": "全栈开发工程师",
-          "image": "https://randomuser.me/api/portraits/men/9.jpg",
-          "quote": "MkSaaS 改变了我的网页开发方式。他们的 UI 组件、区块和模板极大地加速了我的工作流程。定制每个方面的灵活性使我能够创建独特的用户体验。MkSaaS 是现代网页开发的游戏规则改变者！"
-        },
-        "item-9": {
-          "name": "Khatab Wedaa",
-          "role": "MerakiUI 创建者",
-          "image": "https://randomuser.me/api/portraits/men/10.jpg",
-          "quote": "MkSaaS 是一个优雅、干净且响应式的 SaaS 模板，它非常有助于快速开始您的项目。"
-        },
-        "item-10": {
-          "name": "Rodrigo Aguilar",
-          "role": "TailwindAwesome 创建者",
-          "image": "https://randomuser.me/api/portraits/men/11.jpg",
-          "quote": "我爱 MkSaaS ❤️。这些组件区块结构良好，易于使用，设计精美。它使创建一个出色的网站变得非常容易。"
-        },
-        "item-11": {
-          "name": "Eric Ampire",
-          "role": "Google 开发者专家",
-          "image": "https://randomuser.me/api/portraits/men/12.jpg",
-          "quote": "Tool Demo 模板是任何想要创建一个美丽且功能齐全的网站但没有网页设计经验的人的完美解决方案。这些模板易于使用，可定制，并且响应迅速。我强烈推荐 Tool Demo 模板给任何想要创建网站的人。"
-        },
-        "item-12": {
-          "name": "Roland Tubonge",
-          "role": "软件工程师",
-          "image": "https://randomuser.me/api/portraits/men/13.jpg",
-          "quote": "Tool Demo 设计得如此出色，即使没有网页设计经验，您也可以创造奇迹。让自己被吸引！"
-        }
-      }
-    },
-    "stats": {
-      "title": "统计",
-      "subtitle": "Tool Demo 相关的数字",
-      "description": "Tool Demo 可让您在几天内轻松构建您的 AI SaaS",
-      "items": {
-        "item-1": {
-          "title": "GitHub 上的星星"
-        },
-        "item-2": {
-          "title": "使用 Tool Demo 的活跃用户"
-        },
-        "item-3": {
-          "title": "使用 Tool Demo 启动的应用"
-        }
-      }
-    },
-    "calltoaction": {
-      "title": "开始构建",
-      "description": "Tool Demo 可让您在几天内轻松构建您的 AI SaaS",
-      "primaryButton": "开始使用",
-      "secondaryButton": "查看演示"
-    }
+    "description": "使用 Tool Demo 在几天内轻松构建您的 AI SaaS 产品"
   }
 }
