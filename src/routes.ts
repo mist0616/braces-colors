@@ -8,7 +8,6 @@ export enum Routes {
   FAQ = '/#faq',
 
   About = '/about',
-  Roadmap = 'https://mksaas.link/roadmap',
   PrivacyPolicy = '/privacy',
   TermsOfService = '/terms',
 

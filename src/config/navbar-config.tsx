@@ -90,13 +90,6 @@ export function getNavbarLinks(): NestedMenuItem[] {
           href: Routes.About,
           external: false,
         },
-        {
-          title: t('pages.items.roadmap.title'),
-          description: t('pages.items.roadmap.description'),
-          icon: <SquareKanbanIcon className="size-4 shrink-0" />,
-          href: Routes.Roadmap,
-          external: true,
-        },
 
         {
           title: t('pages.items.privacyPolicy.title'),

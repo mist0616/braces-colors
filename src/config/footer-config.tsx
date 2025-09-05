@@ -30,16 +30,6 @@ export function getFooterLinks(): NestedMenuItem[] {
       ],
     },
     {
-      title: t('resources.title'),
-      items: [
-        {
-          title: t('resources.items.roadmap'),
-          href: Routes.Roadmap,
-          external: true,
-        },
-      ],
-    },
-    {
       title: t('company.title'),
       items: [
         {

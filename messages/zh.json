@@ -237,11 +237,6 @@
             "description": "与我们的团队联系，以获取支持或咨询"
           },
 
-          "roadmap": {
-            "title": "路线图",
-            "description": "探索我们的未来计划和即将推出的功能"
-          },
-
           "privacyPolicy": {
             "title": "隐私政策",
             "description": "关于我们将如何保护和处理您在网站上的数据"
@@ -313,8 +308,7 @@
         "title": "资源",
         "items": {
           "blog": "博客",
-          "docs": "文档",
-          "roadmap": "路线图"
+          "docs": "文档"
         }
       },
       "company": {
