@@ -47,9 +47,6 @@ const analysisSchema = z.object({
     .string()
     .describe('Detailed introduction paragraph about the content'),
   features: z.array(z.string()).describe('List of key features or highlights'),
-  pricing: z
-    .string()
-    .describe('Pricing information or "Not specified" if unavailable'),
   useCases: z.array(z.string()).describe('List of use cases or applications'),
 });
 
@@ -253,7 +250,6 @@ async function analyzeContent(
           Content: ${content}
 
           Please provide accurate and relevant information based on the content. If certain information is not available, use appropriate defaults:
-          - For pricing: use "Not specified" if no pricing information is found
           - For features and use cases: provide empty arrays if none are found
           - Ensure the title and description are meaningful and based on the actual content
         `,

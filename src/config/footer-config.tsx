@@ -23,16 +23,6 @@ export function getFooterLinks(): NestedMenuItem[] {
       title: t('product.title'),
       items: [
         {
-          title: t('product.items.features'),
-          href: Routes.Features,
-          external: false,
-        },
-        {
-          title: t('product.items.pricing'),
-          href: Routes.Pricing,
-          external: false,
-        },
-        {
           title: t('product.items.faq'),
           href: Routes.FAQ,
           external: false,
@@ -42,29 +32,6 @@ export function getFooterLinks(): NestedMenuItem[] {
     {
       title: t('resources.title'),
       items: [
-        ...(websiteConfig.blog.enable
-          ? [
-              {
-                title: t('resources.items.blog'),
-                href: Routes.Blog,
-                external: false,
-              },
-            ]
-          : []),
-        ...(websiteConfig.docs.enable
-          ? [
-              {
-                title: t('resources.items.docs'),
-                href: Routes.Docs,
-                external: false,
-              },
-            ]
-          : []),
-        {
-          title: t('resources.items.changelog'),
-          href: Routes.Changelog,
-          external: false,
-        },
         {
           title: t('resources.items.roadmap'),
           href: Routes.Roadmap,
@@ -85,21 +52,11 @@ export function getFooterLinks(): NestedMenuItem[] {
           href: Routes.Contact,
           external: false,
         },
-        {
-          title: t('company.items.waitlist'),
-          href: Routes.Waitlist,
-          external: false,
-        },
       ],
     },
     {
       title: t('legal.title'),
       items: [
-        {
-          title: t('legal.items.cookiePolicy'),
-          href: Routes.CookiePolicy,
-          external: false,
-        },
         {
           title: t('legal.items.privacyPolicy'),
           href: Routes.PrivacyPolicy,

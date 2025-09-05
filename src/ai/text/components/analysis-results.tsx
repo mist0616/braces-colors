@@ -231,23 +231,6 @@ export const AnalysisResults = memo(function AnalysisResults({
               </CardContent>
             </Card>
           )}
-
-          {/* Pricing Section */}
-          {results.pricing && results.pricing !== 'Not specified' && (
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center gap-2">
-                  <CreditCardIcon className="size-5" />
-                  Pricing
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm leading-relaxed text-muted-foreground">
-                  {results.pricing}
-                </p>
-              </CardContent>
-            </Card>
-          )}
         </div>
 
         {/* Screenshot Sidebar */}

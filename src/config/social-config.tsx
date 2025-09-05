@@ -116,13 +116,5 @@ export function getSocialLinks(): MenuItem[] {
     });
   }
 
-  if (websiteConfig.mail.supportEmail) {
-    socialLinks.push({
-      title: 'Email',
-      href: `mailto:${websiteConfig.mail.supportEmail}`,
-      icon: <MailIcon className="size-4 shrink-0" />,
-    });
-  }
-
   return socialLinks;
 }

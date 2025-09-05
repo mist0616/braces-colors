@@ -6,7 +6,6 @@ export interface AnalysisResults {
   description: string;
   introduction: string;
   features: string[];
-  pricing: string;
   useCases: string[];
   url: string;
   analyzedAt: string;

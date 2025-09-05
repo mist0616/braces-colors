@@ -1,6 +1,4 @@
 import type { ReactNode } from 'react';
-import type { PricePlan } from '@/payment/types';
-import type { CreditPackage } from '@/credits/types';
 
 /**
  * website config, without translations
@@ -9,18 +7,11 @@ export type WebsiteConfig = {
   ui: UiConfig;
   metadata: MetadataConfig;
   features: FeaturesConfig;
-  routes: RoutesConfig;
   analytics: AnalyticsConfig;
-  auth: AuthConfig;
   i18n: I18nConfig;
-  blog: BlogConfig;
   docs: DocsConfig;
-  mail: MailConfig;
   newsletter: NewsletterConfig;
   storage: StorageConfig;
-  payment: PaymentConfig;
-  price: PriceConfig;
-  credits: CreditsConfig;
 };
 
 /**
@@ -86,13 +77,6 @@ export interface FeaturesConfig {
 }
 
 /**
- * Routes configuration
- */
-export interface RoutesConfig {
-  defaultLoginRedirect?: string;      // The default login redirect route
-}
-
-/**
  * Analytics configuration
  */
 export interface AnalyticsConfig {
@@ -100,11 +84,6 @@ export interface AnalyticsConfig {
   enableSpeedInsights?: boolean;      // Whether to enable speed insights
 }
 
-export interface AuthConfig {
-  enableGoogleLogin?: boolean;       // Whether to enable google login
-  enableGithubLogin?: boolean;       // Whether to enable github login
-  enableCredentialLogin?: boolean;   // Whether to enable email/password login
-}
 
 /**
  * I18n configuration
@@ -114,14 +93,6 @@ export interface I18nConfig {
   locales: Record<string, { flag?: string; name: string }>; // The locales of the website
 }
 
-/**
- * Blog configuration
- */
-export interface BlogConfig {
-  enable: boolean;                   // Whether to enable the blog
-  paginationSize: number;            // Number of posts per page
-  relatedPostsSize: number;          // Number of related posts to show
-}
 
 /**
  * Docs configuration
@@ -130,14 +101,6 @@ export interface DocsConfig {
   enable: boolean;                   // Whether to enable the docs
 }
 
-/**
- * Mail configuration
- */
-export interface MailConfig {
-  provider: 'resend';                // The email provider, only resend is supported for now
-  fromEmail?: string;                // The email address to send from
-  supportEmail?: string;             // The email address to send support emails to
-}
 
 /**
  * Newsletter configuration
@@ -156,33 +119,6 @@ export interface StorageConfig {
   provider: 's3';                    // The storage provider, only s3 is supported for now
 }
 
-/**
- * Payment configuration
- */
-export interface PaymentConfig {
-  provider: 'stripe';                // The payment provider, only stripe is supported for now
-}
-
-/**
- * Price configuration
- */
-export interface PriceConfig {
-  plans: Record<string, PricePlan>;  // Plans indexed by ID
-}
-
-/**
- * Credits configuration
- */
-export interface CreditsConfig {
-  enableCredits: boolean;            // Whether to enable credits
-  enablePackagesForFreePlan: boolean;// Whether to enable purchase credits for free plan users
-  registerGiftCredits: {
-    enable: boolean;                 // Whether to enable register gift credits
-    amount: number;                  // The amount of credits to give to the user
-    expireDays?: number;             // The number of days to expire the credits, undefined means no expire
-  };
-  packages: Record<string, CreditPackage>;  // Packages indexed by ID
-}
 
 /**
  * menu item, used for navbar links, sidebar links, footer links
@@ -203,14 +139,3 @@ export type NestedMenuItem = MenuItem & {
   items?: MenuItem[];                // The items to display in the nested menu
 };
 
-/**
- * Blog Category
- *
- * we can not pass CategoryType from server component to client component
- * so we need to define a new type, and use it in the client component
- */
-export type BlogCategory = {
-  slug: string;
-  name: string;
-  description: string;
-};

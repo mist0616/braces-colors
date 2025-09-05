@@ -1,14 +1,10 @@
 'use server';
 
-import { websiteConfig } from '@/config/website';
 import { actionClient } from '@/lib/safe-action';
-import { sendEmail } from '@/mail';
-import { getLocale } from 'next-intl/server';
 import { z } from 'zod';
 
 /**
- * DOC: When using Zod for validation, how can I localize error messages?
- * https://next-intl.dev/docs/environments/actions-metadata-route-handlers#server-actions
+ * Contact form action - mail functionality removed
  */
 // Contact form schema for validation
 const contactFormSchema = z.object({
@@ -27,39 +23,15 @@ const contactFormSchema = z.object({
 export const sendMessageAction = actionClient
   .schema(contactFormSchema)
   .action(async ({ parsedInput }) => {
-    // Do not check if the user is authenticated here
     try {
       const { name, email, message } = parsedInput;
 
-      if (!websiteConfig.mail.supportEmail) {
-        console.error('The mail receiver is not set');
-        throw new Error('The mail receiver is not set');
-      }
-
-      const locale = await getLocale();
-
-      // Send message as an email to admin
-      const result = await sendEmail({
-        to: websiteConfig.mail.supportEmail,
-        template: 'contactMessage',
-        context: {
-          name,
-          email,
-          message,
-        },
-        locale,
-      });
-
-      if (!result) {
-        console.error('send message error');
-        return {
-          success: false,
-          error: 'Failed to send the message',
-        };
-      }
+      // Mail functionality removed - mail module deleted
+      console.log('Contact form submission:', { name, email, message });
 
       return {
         success: true,
+        message: 'Message received (mail functionality disabled)',
       };
     } catch (error) {
       console.error('send message error:', error);

@@ -2,7 +2,7 @@ import { type InferPageType, loader } from 'fumadocs-core/source';
 import { createMDXSource } from 'fumadocs-mdx';
 import * as LucideIcons from 'lucide-react';
 import { createElement } from 'react';
-import { author, blog, category, changelog, docs, pages } from '../../.source';
+import { docs, pages } from '../../.source';
 import { docsI18nConfig } from './docs/i18n';
 
 /**
@@ -31,15 +31,6 @@ export const source = loader({
 });
 
 /**
- * Changelog source
- */
-export const changelogSource = loader({
-  baseUrl: '/changelog',
-  i18n: docsI18nConfig,
-  source: createMDXSource(changelog),
-});
-
-/**
  * Pages source
  *
  * TODO: how to set the baseUrl for pages?
@@ -50,41 +41,4 @@ export const pagesSource = loader({
   source: createMDXSource(pages),
 });
 
-/**
- * Blog authors source
- */
-export const authorSource = loader({
-  baseUrl: '/author',
-  i18n: docsI18nConfig,
-  source: createMDXSource(author),
-});
-
-/**
- * Blog categories source
- */
-export const categorySource = loader({
-  baseUrl: '/category',
-  i18n: docsI18nConfig,
-  source: createMDXSource(category),
-});
-
-/**
- * Blog posts source
- */
-export const blogSource = loader({
-  baseUrl: '/blog',
-  i18n: docsI18nConfig,
-  source: createMDXSource(blog),
-  transformers: [
-    (page) => {
-      // console.log('page', page);
-      return page;
-    },
-  ],
-});
-
-export type ChangelogType = InferPageType<typeof changelogSource>;
 export type PagesType = InferPageType<typeof pagesSource>;
-export type AuthorType = InferPageType<typeof authorSource>;
-export type CategoryType = InferPageType<typeof categorySource>;
-export type BlogType = InferPageType<typeof blogSource>;
