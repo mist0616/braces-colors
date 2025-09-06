@@ -1,11 +1,11 @@
+import ToolFaqs from '@/components/blocks/tool-faqs/tool-faqs';
+import Tool from '@/components/blocks/tool/tool';
+import Container from '@/components/layout/container';
 import { constructMetadata } from '@/lib/metadata';
 import { getUrlWithLocale } from '@/lib/urls/urls';
 import type { Metadata } from 'next';
 import type { Locale } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
-import { BracesColorSimulator } from '@/components/braces-color/simulator';
-import BracesColorFaqs from '@/components/braces-color/faqs';
-import { BracesColorHeader } from '@/components/braces-color/header';
 
 /**
  * https://next-intl.dev/docs/environments/actions-metadata-route-handlers#metadata-api
@@ -32,15 +32,13 @@ interface HomePageProps {
 export default async function HomePage(props: HomePageProps) {
   const params = await props.params;
   const { locale } = params;
-  const t = await getTranslations('HomePage');
 
   return (
-    <div className="flex flex-col">
-      <BracesColorHeader />
-
-      <BracesColorSimulator />
-
-      <BracesColorFaqs />
-    </div>
+    <Container className="py-8 px-4">
+      <div className="mx-auto">
+        <Tool />
+        <ToolFaqs />
+      </div>
+    </Container>
   );
 }
