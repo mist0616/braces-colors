@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Seletor gratuito de cores de aparelhos online para ajudá-lo a encontrar a cor perfeita",
+      "company": {
+        "title": "Empresa",
+        "items": {
+          "about": "Sobre",
+          "contact": "Contato"
+        }
+      },
+      "tools": {
+        "title": "Ferramentas",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Legal",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contato",
+    "description": "Ajudaremos você a encontrar a cor perfeita de aparelho dentário",
+    "subtitle": "Ajudaremos você a encontrar a cor perfeita de aparelho dentário",
+    "form": {
+      "title": "Entre em Contato",
+      "description": "Se você tiver alguma pergunta ou feedback sobre nossa ferramenta de cores de aparelhos dentários, sinta-se à vontade para entrar em contato com nossa equipe"
+    },
+    "talkWithMe": "Entre em Contato"
+  },
+  "AboutPage": {
+    "title": "Sobre",
+    "description": "Este é Melhores Cores de Aparelhos Dentários, uma ferramenta gratuita online para ajudá-lo a encontrar a cor perfeita de aparelho dentário para seu sorriso.",
+    "authorName": "Melhores Cores de Aparelhos Dentários",
+    "authorBio": "Ferramenta Gratuita de Cores de Aparelhos Dentários Online",
+    "introduction": "👋 Olá! Este é Melhores Cores de Aparelhos Dentários, uma ferramenta gratuita online para ajudá-lo a encontrar a cor perfeita de aparelho dentário para seu sorriso. Com mais de 30 cores para escolher, você pode visualizar como diferentes cores ficam nos aparelhos dentários. Se você tiver alguma pergunta, sinta-se à vontade para me contatar.",
+    "talkWithMe": "Fale comigo",
+    "followMe": "Siga-me no X"
   }
 }

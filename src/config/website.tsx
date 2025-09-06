@@ -122,4 +122,9 @@ export const websiteConfig: WebsiteConfig = {
     enable: true,
     provider: 's3',
   },
+  mail: {
+    provider: 'resend',
+    fromEmail: 'Best Braces Colors <duchoureai@gmail.com>',
+    supportEmail: 'Best Braces Colors <duchoureai@gmail.com>',
+  },
 };

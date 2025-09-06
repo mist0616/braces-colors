@@ -53,6 +53,13 @@
     "navbar": {},
     "footer": {
       "tagline": "Free online braces color picker to help you find the perfect braces color",
+      "company": {
+        "title": "Company",
+        "items": {
+          "about": "About",
+          "contact": "Contact"
+        }
+      },
       "tools": {
         "title": "Tools",
         "items": {
@@ -147,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "We'll help you find the perfect braces color",
+    "subtitle": "We'll help you find the perfect braces color",
+    "form": {
+      "title": "Contact Us",
+      "description": "If you have any questions or feedback about our braces color tool, please feel free to contact our team"
+    },
+    "talkWithMe": "Contact Me"
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "This is Best Braces Colors, a free online tool to help you find the perfect braces color for your smile.",
+    "authorName": "Best Braces Colors",
+    "authorBio": "Free Online Braces Color Tool",
+    "introduction": "👋 Hi there! This is Best Braces Colors, a free online tool to help you find the perfect braces color for your smile. With 30+ colors to choose from, you can preview how different colors look on braces. If you have any questions, welcome to contact me.",
+    "talkWithMe": "Talk with me",
+    "followMe": "Follow me on X"
   }
 }

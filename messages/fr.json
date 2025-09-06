@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Sélecteur de couleurs d'appareils dentaires gratuit en ligne pour vous aider à trouver la couleur parfaite",
+      "company": {
+        "title": "Entreprise",
+        "items": {
+          "about": "À propos",
+          "contact": "Contact"
+        }
+      },
+      "tools": {
+        "title": "Outils",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Légal",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Nous vous aiderons à trouver la couleur parfaite d'appareil dentaire",
+    "subtitle": "Nous vous aiderons à trouver la couleur parfaite d'appareil dentaire",
+    "form": {
+      "title": "Nous Contacter",
+      "description": "Si vous avez des questions ou des commentaires sur notre outil de couleurs d'appareils dentaires, n'hésitez pas à contacter notre équipe"
+    },
+    "talkWithMe": "Me Contacter"
+  },
+  "AboutPage": {
+    "title": "À Propos",
+    "description": "Ceci est Meilleures Couleurs d'Appareils Dentaires, un outil gratuit en ligne pour vous aider à trouver la couleur parfaite d'appareil dentaire pour votre sourire.",
+    "authorName": "Meilleures Couleurs d'Appareils Dentaires",
+    "authorBio": "Outil Gratuit de Couleurs d'Appareils Dentaires en Ligne",
+    "introduction": "👋 Salut ! Ceci est Meilleures Couleurs d'Appareils Dentaires, un outil gratuit en ligne pour vous aider à trouver la couleur parfaite d'appareil dentaire pour votre sourire. Avec plus de 30 couleurs à choisir, vous pouvez prévisualiser comment différentes couleurs apparaissent sur les appareils dentaires. Si vous avez des questions, n'hésitez pas à me contacter.",
+    "talkWithMe": "Parlez avec moi",
+    "followMe": "Suivez-moi sur X"
   }
 }

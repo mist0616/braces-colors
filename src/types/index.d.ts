@@ -12,6 +12,7 @@ export type WebsiteConfig = {
   docs: DocsConfig;
   newsletter: NewsletterConfig;
   storage: StorageConfig;
+  mail?: MailConfig;
 };
 
 /**
@@ -115,6 +116,15 @@ export interface NewsletterConfig {
 export interface StorageConfig {
   enable: boolean;                   // Whether to enable the storage
   provider: 's3';                    // The storage provider, only s3 is supported for now
+}
+
+/**
+ * Mail configuration
+ */
+export interface MailConfig {
+  provider: 'resend';               // The mail provider, only resend is supported for now
+  fromEmail: string;                // The from email address
+  supportEmail: string;             // The support email address
 }
 
 

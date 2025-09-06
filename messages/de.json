@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Kostenloser Online-Zahnspangen-Farbwähler, um Ihnen zu helfen, die perfekte Farbe zu finden",
+      "company": {
+        "title": "Unternehmen",
+        "items": {
+          "about": "Über uns",
+          "contact": "Kontakt"
+        }
+      },
+      "tools": {
+        "title": "Tools",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Rechtliches",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Kontakt",
+    "description": "Wir helfen Ihnen, die perfekte Zahnspangen-Farbe zu finden",
+    "subtitle": "Wir helfen Ihnen, die perfekte Zahnspangen-Farbe zu finden",
+    "form": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Wenn Sie Fragen oder Feedback zu unserem Zahnspangen-Farbwerkzeug haben, zögern Sie nicht, unser Team zu kontaktieren"
+    },
+    "talkWithMe": "Kontaktieren Sie mich"
+  },
+  "AboutPage": {
+    "title": "Über uns",
+    "description": "Dies ist Beste Zahnspangen-Farben, ein kostenloses Online-Tool, um Ihnen zu helfen, die perfekte Zahnspangen-Farbe für Ihr Lächeln zu finden.",
+    "authorName": "Beste Zahnspangen-Farben",
+    "authorBio": "Kostenloses Online-Zahnspangen-Farbwerkzeug",
+    "introduction": "👋 Hallo! Dies ist Beste Zahnspangen-Farben, ein kostenloses Online-Tool, um Ihnen zu helfen, die perfekte Zahnspangen-Farbe für Ihr Lächeln zu finden. Mit über 30 Farben zur Auswahl können Sie eine Vorschau sehen, wie verschiedene Farben auf Zahnspangen aussehen. Wenn Sie Fragen haben, kontaktieren Sie mich gerne.",
+    "talkWithMe": "Sprechen Sie mit mir",
+    "followMe": "Folgen Sie mir auf X"
   }
 }

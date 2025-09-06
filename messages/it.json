@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Selettore colori apparecchi online gratuito per aiutarti a trovare il colore perfetto",
+      "company": {
+        "title": "Azienda",
+        "items": {
+          "about": "Chi siamo",
+          "contact": "Contatti"
+        }
+      },
+      "tools": {
+        "title": "Strumenti",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Legale",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contatti",
+    "description": "Ti aiuteremo a trovare il colore perfetto per l'apparecchio dentale",
+    "subtitle": "Ti aiuteremo a trovare il colore perfetto per l'apparecchio dentale",
+    "form": {
+      "title": "Contattaci",
+      "description": "Se hai domande o feedback sul nostro strumento per i colori degli apparecchi dentali, non esitare a contattare il nostro team"
+    },
+    "talkWithMe": "Contattami"
+  },
+  "AboutPage": {
+    "title": "Chi siamo",
+    "description": "Questo è Migliori Colori per Apparecchi Dentali, uno strumento online gratuito per aiutarti a trovare il colore perfetto per l'apparecchio dentale per il tuo sorriso.",
+    "authorName": "Migliori Colori per Apparecchi Dentali",
+    "authorBio": "Strumento Online Gratuito per Colori Apparecchi Dentali",
+    "introduction": "👋 Ciao! Questo è Migliori Colori per Apparecchi Dentali, uno strumento online gratuito per aiutarti a trovare il colore perfetto per l'apparecchio dentale per il tuo sorriso. Con più di 30 colori tra cui scegliere, puoi vedere un'anteprima di come i diversi colori appaiono sugli apparecchi dentali. Se hai domande, non esitare a contattarmi.",
+    "talkWithMe": "Parla con me",
+    "followMe": "Seguimi su X"
   }
 }

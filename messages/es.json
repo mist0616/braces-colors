@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Selector gratuito de colores de brackets online para ayudarte a encontrar el color perfecto",
+      "company": {
+        "title": "Empresa",
+        "items": {
+          "about": "Acerca de",
+          "contact": "Contacto"
+        }
+      },
+      "tools": {
+        "title": "Herramientas",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Legal",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Contacto",
+    "description": "Te ayudaremos a encontrar el color perfecto de brackets",
+    "subtitle": "Te ayudaremos a encontrar el color perfecto de brackets",
+    "form": {
+      "title": "Contáctanos",
+      "description": "Si tienes alguna pregunta o comentario sobre nuestra herramienta de colores de brackets, no dudes en contactar a nuestro equipo"
+    },
+    "talkWithMe": "Contáctame"
+  },
+  "AboutPage": {
+    "title": "Acerca de",
+    "description": "Este es Mejores Colores de Brackets, una herramienta gratuita online para ayudarte a encontrar el color perfecto de brackets para tu sonrisa.",
+    "authorName": "Mejores Colores de Brackets",
+    "authorBio": "Herramienta Gratuita de Colores de Brackets Online",
+    "introduction": "👋 ¡Hola! Este es Mejores Colores de Brackets, una herramienta gratuita online para ayudarte a encontrar el color perfecto de brackets para tu sonrisa. Con más de 30 colores para elegir, puedes previsualizar cómo se ven diferentes colores en los brackets. Si tienes alguna pregunta, bienvenido a contactarme.",
+    "talkWithMe": "Habla conmigo",
+    "followMe": "Sígueme en X"
   }
 }

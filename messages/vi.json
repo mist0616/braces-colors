@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Công cụ chọn màu niềng răng trực tuyến miễn phí để giúp bạn tìm màu hoàn hảo",
+      "company": {
+        "title": "Công ty",
+        "items": {
+          "about": "Về chúng tôi",
+          "contact": "Liên hệ"
+        }
+      },
+      "tools": {
+        "title": "Công cụ",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Pháp lý",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Liên hệ",
+    "description": "Chúng tôi sẽ giúp bạn tìm màu niềng răng hoàn hảo",
+    "subtitle": "Chúng tôi sẽ giúp bạn tìm màu niềng răng hoàn hảo",
+    "form": {
+      "title": "Liên hệ với chúng tôi",
+      "description": "Nếu bạn có câu hỏi hoặc phản hồi về công cụ màu niềng răng của chúng tôi, vui lòng liên hệ với đội ngũ của chúng tôi"
+    },
+    "talkWithMe": "Liên hệ với tôi"
+  },
+  "AboutPage": {
+    "title": "Về chúng tôi",
+    "description": "Đây là Màu Niềng Răng Tốt Nhất, một công cụ trực tuyến miễn phí để giúp bạn tìm màu niềng răng hoàn hảo cho nụ cười của bạn.",
+    "authorName": "Màu Niềng Răng Tốt Nhất",
+    "authorBio": "Công Cụ Màu Niềng Răng Trực Tuyến Miễn Phí",
+    "introduction": "👋 Xin chào! Đây là Màu Niềng Răng Tốt Nhất, một công cụ trực tuyến miễn phí để giúp bạn tìm màu niềng răng hoàn hảo cho nụ cười của bạn. Với hơn 30 màu để lựa chọn, bạn có thể xem trước các màu khác nhau trông như thế nào trên niềng răng. Nếu bạn có câu hỏi, vui lòng liên hệ với tôi.",
+    "talkWithMe": "Nói chuyện với tôi",
+    "followMe": "Theo dõi tôi trên X"
   }
 }

@@ -53,6 +53,19 @@
     "navbar": {},
     "footer": {
       "tagline": "Pemilih warna behel online gratis untuk membantu Anda menemukan warna yang sempurna",
+      "company": {
+        "title": "Perusahaan",
+        "items": {
+          "about": "Tentang Kami",
+          "contact": "Kontak"
+        }
+      },
+      "tools": {
+        "title": "Alat",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Legal",
         "items": {
@@ -141,5 +154,24 @@
         }
       }
     }
+  },
+  "ContactPage": {
+    "title": "Kontak",
+    "description": "Kami akan membantu Anda menemukan warna behel yang sempurna",
+    "subtitle": "Kami akan membantu Anda menemukan warna behel yang sempurna",
+    "form": {
+      "title": "Hubungi Kami",
+      "description": "Jika Anda memiliki pertanyaan atau masukan tentang alat warna behel kami, jangan ragu untuk menghubungi tim kami"
+    },
+    "talkWithMe": "Hubungi Saya"
+  },
+  "AboutPage": {
+    "title": "Tentang Kami",
+    "description": "Ini adalah Warna Behel Terbaik, alat online gratis untuk membantu Anda menemukan warna behel yang sempurna untuk senyuman Anda.",
+    "authorName": "Warna Behel Terbaik",
+    "authorBio": "Alat Warna Behel Online Gratis",
+    "introduction": "👋 Halo! Ini adalah Warna Behel Terbaik, alat online gratis untuk membantu Anda menemukan warna behel yang sempurna untuk senyuman Anda. Dengan lebih dari 30 warna untuk dipilih, Anda dapat melihat pratinjau bagaimana warna-warna berbeda terlihat pada behel. Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi saya.",
+    "talkWithMe": "Bicara dengan saya",
+    "followMe": "Ikuti saya di X"
   }
 }
