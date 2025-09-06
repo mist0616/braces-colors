@@ -42,7 +42,13 @@ export default async function LocaleLayout({
 
   return (
     <html suppressHydrationWarning lang={locale}>
-      <head />
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1126055585793897"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         suppressHydrationWarning
         className={cn(
