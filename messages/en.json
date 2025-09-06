@@ -1,8 +1,8 @@
 {
   "Metadata": {
-    "name": "Tool Demo",
-    "title": "Tool Demo - The Best AI SaaS Boilerplate",
-    "description": "Tool Demo is the best AI SaaS boilerplate. Make AI SaaS in days, simply and effortlessly"
+    "name": "Best Braces Colors",
+    "title": "Best Braces Colors 2025 - Free Online Color Guide",
+    "description": "Best braces colors guide & free online color tool. Choose from 30+ colors including black, blue, cute colors for girls. No registration required, 100% private. Find your perfect braces color today!"
   },
   "Common": {
     "language": "Switch language",
@@ -45,14 +45,14 @@
     "previousPage": "Previous",
     "nextPage": "Next",
     "chooseLanguage": "Select language",
-    "title": "Tool Demo Docs",
+    "title": "Braces Color Guide",
     "homepage": "Homepage",
     "blog": "Blog"
   },
   "Marketing": {
     "navbar": {},
     "footer": {
-      "tagline": "Make AI SaaS in days, simply and effortlessly",
+      "tagline": "Free online braces color picker to help you find the perfect braces color",
       "legal": {
         "title": "Legal",
         "items": {
@@ -62,32 +62,82 @@
       }
     }
   },
+  "bracesSimulator": {
+    "title": "Best Braces Colors 2025",
+    "description": "Free online braces color tool with 30+ colors including black, blue, cute colors for girls. No registration required, 100% private.",
+    "subtitle": "Choose your favorite braces color from our color guide",
+    "preview": {
+      "title": "Braces Preview",
+      "currentColor": "Current Color",
+      "hint": "The transparent parts of the braces image show the selected background color"
+    },
+    "colors": {
+      "title": "Choose Color",
+      "selectColor": "Select",
+      "customColor": "Custom Color",
+      "customColorPicker": "Color Picker",
+      "customColorInput": "Hex Color Value",
+      "customColorHint": "Enter hex color value (e.g. #FF0000) or use the color picker above",
+      "selectedColor": "Currently Selected Color",
+      "colorNames": {
+        "#ef4444": "Red",
+        "#f97316": "Orange",
+        "#eab308": "Yellow",
+        "#22c55e": "Green",
+        "#3b82f6": "Blue",
+        "#8b5cf6": "Purple",
+        "#ec4899": "Pink",
+        "#6b7280": "Gray",
+        "#000000": "Black",
+        "#ffffff": "White",
+        "#06b6d4": "Cyan",
+        "#84cc16": "Lime",
+        "#f59e0b": "Gold",
+        "#dc2626": "Crimson",
+        "#7c3aed": "Violet",
+        "#059669": "Emerald",
+        "#f43f5e": "Rose",
+        "#8b5a2b": "Brown",
+        "#64748b": "Slate",
+        "#14b8a6": "Teal",
+        "#a855f7": "Lavender",
+        "#fb7185": "Coral",
+        "#65a30d": "Olive",
+        "#0891b2": "Sky",
+        "#7c2d12": "Maroon",
+        "#be123c": "Ruby",
+        "#166534": "Forest",
+        "#1e40af": "Navy",
+        "#6d28d9": "Indigo"
+      }
+    }
+  },
   "HomePage": {
-    "title": "Tool Demo",
-    "description": "Make AI SaaS in days, simply and effortlessly",
+    "title": "Best Braces Colors 2025",
+    "description": "Free online braces color tool with 30+ colors including black, blue, cute colors for girls. No registration required, 100% private.",
     "faqs": {
-      "title": "FAQ",
-      "subtitle": "Frequently Asked Questions",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Based on real search data from users looking for braces color advice",
       "items": {
         "item-1": {
-          "question": "Do you offer a free trial?",
-          "answer": "Yes, we offer a 7-day free trial."
+          "question": "What color braces should I get?",
+          "answer": "The best braces color depends on your skin tone, tooth color, and personal style. Popular choices include white/silver (makes teeth look whiter), light blue (fresh and natural), pink (cute and feminine), black (bold and fashionable), and purple (fun and creative). Consider your skin tone - fair skin looks great with bright colors, while darker skin suits deeper colors."
         },
         "item-2": {
-          "question": "How do I cancel my subscription?",
-          "answer": "You can cancel your subscription by visiting the billing page."
+          "question": "What are the best colors for braces?",
+          "answer": "The most popular braces colors are: white/silver (makes teeth appear whiter), light blue (fresh and natural), pink (cute and feminine), black (bold and fashionable), and purple (fun and creative). These colors are popular because they complement different skin tones and personal styles while making teeth look their best."
         },
         "item-3": {
-          "question": "Can I change my plan?",
-          "answer": "Yes, you can change your plan at any time by visiting the billing page."
+          "question": "What color braces make your teeth look whiter?",
+          "answer": "White, silver, and light gray braces make teeth look whiter because they create good contrast with teeth. Light blue and light pink can also brighten teeth. Avoid choosing braces colors that are too close to your natural tooth color, as they won't provide enough contrast."
         },
         "item-4": {
-          "question": "What is the refund policy?",
-          "answer": "We offer a 30-day money-back guarantee if you are not happy with our product."
+          "question": "Is black a good color for braces?",
+          "answer": "Black can be a good braces color if it complements your skin tone and personal style. It's bold and fashionable, creating strong contrast that can make teeth appear whiter. However, it may be too dramatic for some people or formal settings."
         },
         "item-5": {
-          "question": "Can't find what you're looking for?",
-          "answer": "Please contact our customer support team at support@mksaas.com"
+          "question": "Is pink a good color for braces?",
+          "answer": "Pink can be a great braces color, especially for those with fair skin. It's cute, feminine, and can make teeth look whiter by creating contrast. Pink is popular among younger patients and those who want a softer, more feminine look."
         }
       }
     }

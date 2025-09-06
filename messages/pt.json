@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "name": "Melhores Cores de Aparelhos",
+    "title": "Melhores Cores de Aparelhos 2025 - Guia Gratuito de Cores Online",
+    "description": "Guia das melhores cores de aparelhos e ferramenta gratuita de cores online. Escolha entre mais de 30 cores incluindo preto, azul, cores fofas para meninas. Sem necessidade de registro, 100% privado. Encontre sua cor perfeita de aparelho hoje!"
+  },
+  "Common": {
+    "language": "Trocar idioma",
+    "mode": {
+      "label": "Alternar modo",
+      "light": "Claro",
+      "dark": "Escuro",
+      "system": "Sistema"
+    },
+    "theme": {
+      "label": "Alternar tema",
+      "default": "Padrão",
+      "blue": "Azul",
+      "green": "Verde",
+      "amber": "Âmbar",
+      "neutral": "Neutro"
+    },
+    "copy": "Copiar",
+    "saving": "Salvando...",
+    "save": "Salvar",
+    "loading": "Carregando...",
+    "cancel": "Cancelar",
+    "logoutFailed": "Falha ao sair"
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Desculpe, a página que você está procurando não existe.",
+    "backToHome": "Voltar ao início"
+  },
+  "ErrorPage": {
+    "title": "Ops! Algo deu errado!",
+    "tryAgain": "Tentar novamente",
+    "backToHome": "Voltar ao início"
+  },
+  "DocsPage": {
+    "toc": "Índice",
+    "search": "Buscar documentos",
+    "lastUpdate": "Última atualização em",
+    "searchNoResult": "Nenhum resultado",
+    "previousPage": "Anterior",
+    "nextPage": "Próximo",
+    "chooseLanguage": "Selecionar idioma",
+    "title": "Guia de Cores de Aparelhos",
+    "homepage": "Início",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {},
+    "footer": {
+      "tagline": "Seletor gratuito de cores de aparelhos online para ajudá-lo a encontrar a cor perfeita",
+      "legal": {
+        "title": "Legal",
+        "items": {
+          "privacyPolicy": "Política de Privacidade",
+          "termsOfService": "Termos de Serviço"
+        }
+      }
+    }
+  },
+  "bracesSimulator": {
+    "title": "Melhores Cores de Aparelhos 2025",
+    "description": "Ferramenta gratuita de cores de aparelhos online com mais de 30 cores incluindo preto, azul, cores fofas para meninas. Sem necessidade de registro, 100% privado.",
+    "subtitle": "Escolha sua cor favorita de aparelho do nosso guia de cores",
+    "preview": {
+      "title": "Visualização do Aparelho",
+      "currentColor": "Cor Atual",
+      "hint": "As partes transparentes da imagem do aparelho mostram a cor de fundo selecionada"
+    },
+    "colors": {
+      "title": "Escolher Cor",
+      "selectColor": "Selecionar",
+      "customColor": "Cor Personalizada",
+      "customColorPicker": "Seletor de Cor",
+      "customColorInput": "Valor de Cor Hex",
+      "customColorHint": "Digite o valor de cor hex (ex. #FF0000) ou use o seletor de cor acima",
+      "selectedColor": "Cor Atualmente Selecionada",
+      "colorNames": {
+        "#ef4444": "Vermelho",
+        "#f97316": "Laranja",
+        "#eab308": "Amarelo",
+        "#22c55e": "Verde",
+        "#3b82f6": "Azul",
+        "#8b5cf6": "Roxo",
+        "#ec4899": "Rosa",
+        "#6b7280": "Cinza",
+        "#000000": "Preto",
+        "#ffffff": "Branco",
+        "#06b6d4": "Ciano",
+        "#84cc16": "Lima",
+        "#f59e0b": "Dourado",
+        "#dc2626": "Carmesim",
+        "#7c3aed": "Violeta",
+        "#059669": "Esmeralda",
+        "#f43f5e": "Rosa",
+        "#8b5a2b": "Marrom",
+        "#64748b": "Ardósia",
+        "#14b8a6": "Verde-azulado",
+        "#a855f7": "Lavanda",
+        "#fb7185": "Coral",
+        "#65a30d": "Oliva",
+        "#0891b2": "Céu",
+        "#7c2d12": "Bordô",
+        "#be123c": "Rubi",
+        "#166534": "Floresta",
+        "#1e40af": "Marinho",
+        "#6d28d9": "Anil"
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Melhores Cores de Aparelhos 2025",
+    "description": "Ferramenta gratuita de cores de aparelhos online com mais de 30 cores incluindo preto, azul, cores fofas para meninas. Sem necessidade de registro, 100% privado.",
+    "faqs": {
+      "title": "Perguntas Frequentes",
+      "subtitle": "Baseado em dados reais de busca de usuários procurando conselhos sobre cores de aparelhos",
+      "items": {
+        "item-1": {
+          "question": "Que cor de aparelho devo escolher?",
+          "answer": "A melhor cor de aparelho depende do seu tom de pele, cor dos dentes e estilo pessoal. As escolhas populares incluem branco/prateado (faz os dentes parecerem mais brancos), azul claro (fresco e natural), rosa (fofo e feminino), preto (ousado e elegante), e roxo (divertido e criativo). Considere seu tom de pele - pele clara fica ótima com cores brilhantes, enquanto pele mais escura combina melhor com cores mais profundas."
+        },
+        "item-2": {
+          "question": "Quais são as melhores cores para aparelhos?",
+          "answer": "As cores de aparelhos mais populares são: branco/prateado (faz os dentes parecerem mais brancos), azul claro (fresco e natural), rosa (fofo e feminino), preto (ousado e elegante), e roxo (divertido e criativo). Essas cores são populares porque complementam diferentes tons de pele e estilos pessoais enquanto fazem os dentes parecerem melhores."
+        },
+        "item-3": {
+          "question": "Que cor de aparelho faz seus dentes parecerem mais brancos?",
+          "answer": "Aparelhos brancos, prateados e cinza claro fazem os dentes parecerem mais brancos porque criam bom contraste com os dentes. Azul claro e rosa claro também podem iluminar os dentes. Evite escolher cores de aparelhos que sejam muito similares à sua cor natural de dentes, pois não fornecerão contraste suficiente."
+        },
+        "item-4": {
+          "question": "O preto é uma boa cor para aparelhos?",
+          "answer": "O preto pode ser uma boa cor de aparelho se complementar seu tom de pele e estilo pessoal. É ousado e elegante, criando forte contraste que pode fazer os dentes parecerem mais brancos. No entanto, pode ser muito dramático para algumas pessoas ou ambientes formais."
+        },
+        "item-5": {
+          "question": "O rosa é uma boa cor para aparelhos?",
+          "answer": "O rosa pode ser uma ótima cor de aparelho, especialmente para aqueles com pele clara. É fofo, feminino e pode fazer os dentes parecerem mais brancos criando contraste. O rosa é popular entre pacientes mais jovens e aqueles que querem uma aparência mais suave e feminina."
+        }
+      }
+    }
+  }
+}

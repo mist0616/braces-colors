@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "name": "Màu Niềng Răng Tốt Nhất",
+    "title": "Màu Niềng Răng Tốt Nhất 2025 - Hướng Dẫn Màu Sắc Trực Tuyến Miễn Phí",
+    "description": "Hướng dẫn màu niềng răng tốt nhất và công cụ màu sắc trực tuyến miễn phí. Chọn từ hơn 30 màu bao gồm đen, xanh dương, màu dễ thương cho nữ giới. Không cần đăng ký, 100% riêng tư. Tìm màu niềng răng hoàn hảo của bạn ngay hôm nay!"
+  },
+  "Common": {
+    "language": "Thay đổi ngôn ngữ",
+    "mode": {
+      "label": "Chuyển đổi chế độ",
+      "light": "Sáng",
+      "dark": "Tối",
+      "system": "Hệ thống"
+    },
+    "theme": {
+      "label": "Chuyển đổi chủ đề",
+      "default": "Mặc định",
+      "blue": "Xanh dương",
+      "green": "Xanh lá",
+      "amber": "Hổ phách",
+      "neutral": "Trung tính"
+    },
+    "copy": "Sao chép",
+    "saving": "Đang lưu...",
+    "save": "Lưu",
+    "loading": "Đang tải...",
+    "cancel": "Hủy",
+    "logoutFailed": "Đăng xuất thất bại"
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Xin lỗi, trang bạn đang tìm kiếm không tồn tại.",
+    "backToHome": "Về trang chủ"
+  },
+  "ErrorPage": {
+    "title": "Ôi! Có gì đó đã xảy ra sai!",
+    "tryAgain": "Thử lại",
+    "backToHome": "Về trang chủ"
+  },
+  "DocsPage": {
+    "toc": "Mục lục",
+    "search": "Tìm kiếm tài liệu",
+    "lastUpdate": "Cập nhật lần cuối vào",
+    "searchNoResult": "Không có kết quả",
+    "previousPage": "Trước",
+    "nextPage": "Tiếp",
+    "chooseLanguage": "Chọn ngôn ngữ",
+    "title": "Hướng Dẫn Màu Niềng Răng",
+    "homepage": "Trang chủ",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {},
+    "footer": {
+      "tagline": "Công cụ chọn màu niềng răng trực tuyến miễn phí để giúp bạn tìm màu hoàn hảo",
+      "legal": {
+        "title": "Pháp lý",
+        "items": {
+          "privacyPolicy": "Chính Sách Bảo Mật",
+          "termsOfService": "Điều Khoản Dịch Vụ"
+        }
+      }
+    }
+  },
+  "bracesSimulator": {
+    "title": "Màu Niềng Răng Tốt Nhất 2025",
+    "description": "Công cụ màu niềng răng trực tuyến miễn phí với hơn 30 màu bao gồm đen, xanh dương, màu dễ thương cho nữ giới. Không cần đăng ký, 100% riêng tư.",
+    "subtitle": "Chọn màu niềng răng yêu thích của bạn từ hướng dẫn màu sắc của chúng tôi",
+    "preview": {
+      "title": "Xem Trước Niềng Răng",
+      "currentColor": "Màu Hiện Tại",
+      "hint": "Các phần trong suốt của hình ảnh niềng răng hiển thị màu nền đã chọn"
+    },
+    "colors": {
+      "title": "Chọn Màu",
+      "selectColor": "Chọn",
+      "customColor": "Màu Tùy Chỉnh",
+      "customColorPicker": "Bộ Chọn Màu",
+      "customColorInput": "Giá Trị Màu Hex",
+      "customColorHint": "Nhập giá trị màu hex (ví dụ: #FF0000) hoặc sử dụng bộ chọn màu ở trên",
+      "selectedColor": "Màu Đang Được Chọn",
+      "colorNames": {
+        "#ef4444": "Đỏ",
+        "#f97316": "Cam",
+        "#eab308": "Vàng",
+        "#22c55e": "Xanh lá",
+        "#3b82f6": "Xanh dương",
+        "#8b5cf6": "Tím",
+        "#ec4899": "Hồng",
+        "#6b7280": "Xám",
+        "#000000": "Đen",
+        "#ffffff": "Trắng",
+        "#06b6d4": "Xanh lam",
+        "#84cc16": "Xanh lá nhạt",
+        "#f59e0b": "Vàng",
+        "#dc2626": "Đỏ thẫm",
+        "#7c3aed": "Tím",
+        "#059669": "Xanh ngọc",
+        "#f43f5e": "Hồng",
+        "#8b5a2b": "Nâu",
+        "#64748b": "Xám xanh",
+        "#14b8a6": "Xanh ngọc bích",
+        "#a855f7": "Tím nhạt",
+        "#fb7185": "Hồng san hô",
+        "#65a30d": "Xanh ô liu",
+        "#0891b2": "Xanh trời",
+        "#7c2d12": "Nâu đỏ",
+        "#be123c": "Đỏ ruby",
+        "#166534": "Xanh rừng",
+        "#1e40af": "Xanh navy",
+        "#6d28d9": "Chàm"
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Màu Niềng Răng Tốt Nhất 2025",
+    "description": "Công cụ màu niềng răng trực tuyến miễn phí với hơn 30 màu bao gồm đen, xanh dương, màu dễ thương cho nữ giới. Không cần đăng ký, 100% riêng tư.",
+    "faqs": {
+      "title": "Câu Hỏi Thường Gặp",
+      "subtitle": "Dựa trên dữ liệu tìm kiếm thực tế từ người dùng tìm kiếm lời khuyên về màu niềng răng",
+      "items": {
+        "item-1": {
+          "question": "Tôi nên chọn màu niềng răng nào?",
+          "answer": "Màu niềng răng tốt nhất phụ thuộc vào tông màu da, màu răng và phong cách cá nhân của bạn. Các lựa chọn phổ biến bao gồm trắng/bạc (làm cho răng trông trắng hơn), xanh dương nhạt (tươi mới và tự nhiên), hồng (dễ thương và nữ tính), đen (táo bạo và thời trang), và tím (vui vẻ và sáng tạo). Hãy xem xét tông màu da của bạn - da sáng trông tuyệt vời với màu sáng, trong khi da tối phù hợp với màu sẫm hơn."
+        },
+        "item-2": {
+          "question": "Những màu tốt nhất cho niềng răng là gì?",
+          "answer": "Các màu niềng răng phổ biến nhất là: trắng/bạc (làm cho răng trông trắng hơn), xanh dương nhạt (tươi mới và tự nhiên), hồng (dễ thương và nữ tính), đen (táo bạo và thời trang), và tím (vui vẻ và sáng tạo). Những màu này phổ biến vì chúng bổ sung cho các tông màu da và phong cách cá nhân khác nhau trong khi làm cho răng trông đẹp nhất."
+        },
+        "item-3": {
+          "question": "Màu niềng răng nào làm cho răng trông trắng hơn?",
+          "answer": "Niềng răng màu trắng, bạc và xám nhạt làm cho răng trông trắng hơn vì chúng tạo ra độ tương phản tốt với răng. Xanh dương nhạt và hồng nhạt cũng có thể làm sáng răng. Tránh chọn màu niềng răng quá gần với màu răng tự nhiên của bạn, vì chúng sẽ không cung cấp đủ độ tương phản."
+        },
+        "item-4": {
+          "question": "Đen có phải là màu tốt cho niềng răng không?",
+          "answer": "Đen có thể là màu niềng răng tốt nếu nó bổ sung cho tông màu da và phong cách cá nhân của bạn. Nó táo bạo và thời trang, tạo ra độ tương phản mạnh có thể làm cho răng trông trắng hơn. Tuy nhiên, nó có thể quá kịch tính đối với một số người hoặc môi trường trang trọng."
+        },
+        "item-5": {
+          "question": "Hồng có phải là màu tốt cho niềng răng không?",
+          "answer": "Hồng có thể là màu niềng răng tuyệt vời, đặc biệt là cho những người có da sáng. Nó dễ thương, nữ tính và có thể làm cho răng trông trắng hơn bằng cách tạo ra độ tương phản. Hồng phổ biến trong số các bệnh nhân trẻ hơn và những người muốn có vẻ ngoài mềm mại và nữ tính hơn."
+        }
+      }
+    }
+  }
+}

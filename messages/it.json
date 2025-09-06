@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "name": "Migliori Colori per Apparecchi",
+    "title": "Migliori Colori per Apparecchi 2025 - Guida Colori Online Gratuita",
+    "description": "Guida ai migliori colori per apparecchi e strumento colori online gratuito. Scegli tra più di 30 colori inclusi nero, blu, colori carini per ragazze. Nessuna registrazione richiesta, 100% privato. Trova il tuo colore perfetto per apparecchi oggi!"
+  },
+  "Common": {
+    "language": "Cambia lingua",
+    "mode": {
+      "label": "Cambia modalità",
+      "light": "Chiaro",
+      "dark": "Scuro",
+      "system": "Sistema"
+    },
+    "theme": {
+      "label": "Cambia tema",
+      "default": "Predefinito",
+      "blue": "Blu",
+      "green": "Verde",
+      "amber": "Ambra",
+      "neutral": "Neutro"
+    },
+    "copy": "Copia",
+    "saving": "Salvataggio...",
+    "save": "Salva",
+    "loading": "Caricamento...",
+    "cancel": "Annulla",
+    "logoutFailed": "Logout fallito"
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Spiacenti, la pagina che state cercando non esiste.",
+    "backToHome": "Torna alla home"
+  },
+  "ErrorPage": {
+    "title": "Ops! Qualcosa è andato storto!",
+    "tryAgain": "Riprova",
+    "backToHome": "Torna alla home"
+  },
+  "DocsPage": {
+    "toc": "Indice",
+    "search": "Cerca documenti",
+    "lastUpdate": "Ultimo aggiornamento il",
+    "searchNoResult": "Nessun risultato",
+    "previousPage": "Precedente",
+    "nextPage": "Successivo",
+    "chooseLanguage": "Seleziona lingua",
+    "title": "Guida Colori Apparecchi",
+    "homepage": "Homepage",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {},
+    "footer": {
+      "tagline": "Selettore colori apparecchi online gratuito per aiutarti a trovare il colore perfetto",
+      "legal": {
+        "title": "Legale",
+        "items": {
+          "privacyPolicy": "Informativa sulla Privacy",
+          "termsOfService": "Termini di Servizio"
+        }
+      }
+    }
+  },
+  "bracesSimulator": {
+    "title": "Migliori Colori per Apparecchi 2025",
+    "description": "Strumento colori apparecchi online gratuito con più di 30 colori inclusi nero, blu, colori carini per ragazze. Nessuna registrazione richiesta, 100% privato.",
+    "subtitle": "Scegli il tuo colore preferito per apparecchi dalla nostra guida colori",
+    "preview": {
+      "title": "Anteprima Apparecchio",
+      "currentColor": "Colore Attuale",
+      "hint": "Le parti trasparenti dell'immagine dell'apparecchio mostrano il colore di sfondo selezionato"
+    },
+    "colors": {
+      "title": "Scegli Colore",
+      "selectColor": "Seleziona",
+      "customColor": "Colore Personalizzato",
+      "customColorPicker": "Selettore Colore",
+      "customColorInput": "Valore Colore Hex",
+      "customColorHint": "Inserisci il valore colore hex (es. #FF0000) o usa il selettore colore sopra",
+      "selectedColor": "Colore Attualmente Selezionato",
+      "colorNames": {
+        "#ef4444": "Rosso",
+        "#f97316": "Arancione",
+        "#eab308": "Giallo",
+        "#22c55e": "Verde",
+        "#3b82f6": "Blu",
+        "#8b5cf6": "Viola",
+        "#ec4899": "Rosa",
+        "#6b7280": "Grigio",
+        "#000000": "Nero",
+        "#ffffff": "Bianco",
+        "#06b6d4": "Ciano",
+        "#84cc16": "Lime",
+        "#f59e0b": "Oro",
+        "#dc2626": "Cremisi",
+        "#7c3aed": "Violetto",
+        "#059669": "Smeraldo",
+        "#f43f5e": "Rosa",
+        "#8b5a2b": "Marrone",
+        "#64748b": "Ardesia",
+        "#14b8a6": "Verde Acqua",
+        "#a855f7": "Lavanda",
+        "#fb7185": "Corallo",
+        "#65a30d": "Oliva",
+        "#0891b2": "Cielo",
+        "#7c2d12": "Bordeaux",
+        "#be123c": "Rubino",
+        "#166534": "Foresta",
+        "#1e40af": "Navy",
+        "#6d28d9": "Indaco"
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Migliori Colori per Apparecchi 2025",
+    "description": "Strumento colori apparecchi online gratuito con più di 30 colori inclusi nero, blu, colori carini per ragazze. Nessuna registrazione richiesta, 100% privato.",
+    "faqs": {
+      "title": "Domande Frequenti",
+      "subtitle": "Basato su dati di ricerca reali di utenti che cercano consigli sui colori degli apparecchi",
+      "items": {
+        "item-1": {
+          "question": "Che colore di apparecchio dovrei scegliere?",
+          "answer": "Il miglior colore per apparecchi dipende dal tuo tono di pelle, colore dei denti e stile personale. Le scelte popolari includono bianco/argento (fa sembrare i denti più bianchi), blu chiaro (fresco e naturale), rosa (carino e femminile), nero (audace e alla moda), e viola (divertente e creativo). Considera il tuo tono di pelle - la pelle chiara sta benissimo con colori brillanti, mentre la pelle più scura si adatta meglio a colori più profondi."
+        },
+        "item-2": {
+          "question": "Quali sono i migliori colori per gli apparecchi?",
+          "answer": "I colori più popolari per gli apparecchi sono: bianco/argento (fa sembrare i denti più bianchi), blu chiaro (fresco e naturale), rosa (carino e femminile), nero (audace e alla moda), e viola (divertente e creativo). Questi colori sono popolari perché completano diversi toni di pelle e stili personali mentre fanno sembrare i denti al meglio."
+        },
+        "item-3": {
+          "question": "Che colore di apparecchio fa sembrare i denti più bianchi?",
+          "answer": "Gli apparecchi bianchi, argentati e grigio chiaro fanno sembrare i denti più bianchi perché creano un buon contrasto con i denti. Il blu chiaro e il rosa chiaro possono anche illuminare i denti. Evita di scegliere colori di apparecchi che sono troppo vicini al tuo colore naturale dei denti, poiché non forniranno abbastanza contrasto."
+        },
+        "item-4": {
+          "question": "Il nero è un buon colore per gli apparecchi?",
+          "answer": "Il nero può essere un buon colore per apparecchi se completa il tuo tono di pelle e stile personale. È audace e alla moda, creando un forte contrasto che può far sembrare i denti più bianchi. Tuttavia, potrebbe essere troppo drammatico per alcune persone o ambienti formali."
+        },
+        "item-5": {
+          "question": "Il rosa è un buon colore per gli apparecchi?",
+          "answer": "Il rosa può essere un ottimo colore per apparecchi, specialmente per quelli con la pelle chiara. È carino, femminile e può far sembrare i denti più bianchi creando contrasto. Il rosa è popolare tra i pazienti più giovani e quelli che vogliono un aspetto più morbido e femminile."
+        }
+      }
+    }
+  }
+}

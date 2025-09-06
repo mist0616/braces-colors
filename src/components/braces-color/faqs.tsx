@@ -7,55 +7,51 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from '@/components/ui/accordion';
-import type { IconName } from 'lucide-react/dynamic';
-import { useLocale, useTranslations } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
-type FAQItem = {
+export type FAQItem = {
   id: string;
-  icon: IconName;
   question: string;
   answer: string;
 };
 
-export default function FaqSection() {
-  const locale = useLocale();
+interface BracesColorFaqsProps {
+  className?: string;
+}
+
+export default function BracesColorFaqs({ className }: BracesColorFaqsProps) {
   const t = useTranslations('HomePage.faqs');
 
   const faqItems: FAQItem[] = [
     {
       id: 'item-1',
-      icon: 'calendar-clock',
       question: t('items.item-1.question'),
       answer: t('items.item-1.answer'),
     },
     {
       id: 'item-2',
-      icon: 'wallet',
       question: t('items.item-2.question'),
       answer: t('items.item-2.answer'),
     },
     {
       id: 'item-3',
-      icon: 'refresh-cw',
       question: t('items.item-3.question'),
       answer: t('items.item-3.answer'),
     },
     {
       id: 'item-4',
-      icon: 'hand-coins',
       question: t('items.item-4.question'),
       answer: t('items.item-4.answer'),
     },
     {
       id: 'item-5',
-      icon: 'mail',
       question: t('items.item-5.question'),
       answer: t('items.item-5.answer'),
     },
   ];
 
   return (
-    <section id="faqs" className="px-4 py-16">
+    <section id="faqs" className={`px-4 py-16 ${className || ''}`}>
       <div className="mx-auto max-w-4xl">
         <HeaderSection
           title={t('title')}

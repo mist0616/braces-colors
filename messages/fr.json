@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "name": "Meilleures Couleurs d'Appareils Dentaires",
+    "title": "Meilleures Couleurs d'Appareils Dentaires 2025 - Guide de Couleurs Gratuit en Ligne",
+    "description": "Guide des meilleures couleurs d'appareils dentaires et outil de couleurs gratuit en ligne. Choisissez parmi plus de 30 couleurs incluant noir, bleu, couleurs mignonnes pour filles. Aucune inscription requise, 100% privé. Trouvez votre couleur parfaite d'appareil dentaire aujourd'hui!"
+  },
+  "Common": {
+    "language": "Changer de langue",
+    "mode": {
+      "label": "Basculer le mode",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système"
+    },
+    "theme": {
+      "label": "Basculer le thème",
+      "default": "Par défaut",
+      "blue": "Bleu",
+      "green": "Vert",
+      "amber": "Ambre",
+      "neutral": "Neutre"
+    },
+    "copy": "Copier",
+    "saving": "Sauvegarde...",
+    "save": "Sauvegarder",
+    "loading": "Chargement...",
+    "cancel": "Annuler",
+    "logoutFailed": "Échec de la déconnexion"
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Désolé, la page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil"
+  },
+  "ErrorPage": {
+    "title": "Oups! Quelque chose s'est mal passé!",
+    "tryAgain": "Réessayer",
+    "backToHome": "Retour à l'accueil"
+  },
+  "DocsPage": {
+    "toc": "Table des Matières",
+    "search": "Rechercher dans les documents",
+    "lastUpdate": "Dernière mise à jour le",
+    "searchNoResult": "Aucun résultat",
+    "previousPage": "Précédent",
+    "nextPage": "Suivant",
+    "chooseLanguage": "Sélectionner la langue",
+    "title": "Guide des Couleurs d'Appareils Dentaires",
+    "homepage": "Accueil",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {},
+    "footer": {
+      "tagline": "Sélecteur de couleurs d'appareils dentaires gratuit en ligne pour vous aider à trouver la couleur parfaite",
+      "legal": {
+        "title": "Légal",
+        "items": {
+          "privacyPolicy": "Politique de Confidentialité",
+          "termsOfService": "Conditions d'Utilisation"
+        }
+      }
+    }
+  },
+  "bracesSimulator": {
+    "title": "Meilleures Couleurs d'Appareils Dentaires 2025",
+    "description": "Outil de couleurs d'appareils dentaires gratuit en ligne avec plus de 30 couleurs incluant noir, bleu, couleurs mignonnes pour filles. Aucune inscription requise, 100% privé.",
+    "subtitle": "Choisissez votre couleur d'appareil dentaire préférée dans notre guide de couleurs",
+    "preview": {
+      "title": "Aperçu de l'Appareil Dentaire",
+      "currentColor": "Couleur Actuelle",
+      "hint": "Les parties transparentes de l'image de l'appareil dentaire montrent la couleur de fond sélectionnée"
+    },
+    "colors": {
+      "title": "Choisir la Couleur",
+      "selectColor": "Sélectionner",
+      "customColor": "Couleur Personnalisée",
+      "customColorPicker": "Sélecteur de Couleur",
+      "customColorInput": "Valeur de Couleur Hex",
+      "customColorHint": "Entrez la valeur de couleur hex (ex. #FF0000) ou utilisez le sélecteur de couleur ci-dessus",
+      "selectedColor": "Couleur Actuellement Sélectionnée",
+      "colorNames": {
+        "#ef4444": "Rouge",
+        "#f97316": "Orange",
+        "#eab308": "Jaune",
+        "#22c55e": "Vert",
+        "#3b82f6": "Bleu",
+        "#8b5cf6": "Violet",
+        "#ec4899": "Rose",
+        "#6b7280": "Gris",
+        "#000000": "Noir",
+        "#ffffff": "Blanc",
+        "#06b6d4": "Cyan",
+        "#84cc16": "Citron Vert",
+        "#f59e0b": "Or",
+        "#dc2626": "Cramoisi",
+        "#7c3aed": "Violet",
+        "#059669": "Émeraude",
+        "#f43f5e": "Rose",
+        "#8b5a2b": "Brun",
+        "#64748b": "Ardoise",
+        "#14b8a6": "Sarcelle",
+        "#a855f7": "Lavande",
+        "#fb7185": "Corail",
+        "#65a30d": "Olive",
+        "#0891b2": "Ciel",
+        "#7c2d12": "Marron",
+        "#be123c": "Rubis",
+        "#166534": "Forêt",
+        "#1e40af": "Marine",
+        "#6d28d9": "Indigo"
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Meilleures Couleurs d'Appareils Dentaires 2025",
+    "description": "Outil de couleurs d'appareils dentaires gratuit en ligne avec plus de 30 couleurs incluant noir, bleu, couleurs mignonnes pour filles. Aucune inscription requise, 100% privé.",
+    "faqs": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Basé sur de vraies données de recherche d'utilisateurs cherchant des conseils sur les couleurs d'appareils dentaires",
+      "items": {
+        "item-1": {
+          "question": "Quelle couleur d'appareil dentaire devrais-je choisir?",
+          "answer": "La meilleure couleur d'appareil dentaire dépend de votre teint de peau, couleur des dents et style personnel. Les choix populaires incluent blanc/argenté (fait paraître les dents plus blanches), bleu clair (frais et naturel), rose (mignon et féminin), noir (audacieux et élégant), et violet (amusant et créatif). Considérez votre teint de peau - la peau claire est magnifique avec des couleurs vives, tandis que la peau plus foncée convient mieux aux couleurs plus profondes."
+        },
+        "item-2": {
+          "question": "Quelles sont les meilleures couleurs pour les appareils dentaires?",
+          "answer": "Les couleurs d'appareils dentaires les plus populaires sont: blanc/argenté (fait paraître les dents plus blanches), bleu clair (frais et naturel), rose (mignon et féminin), noir (audacieux et élégant), et violet (amusant et créatif). Ces couleurs sont populaires car elles complètent différents teints de peau et styles personnels tout en faisant paraître les dents à leur meilleur."
+        },
+        "item-3": {
+          "question": "Quelle couleur d'appareil dentaire fait paraître vos dents plus blanches?",
+          "answer": "Les appareils dentaires blancs, argentés et gris clair font paraître les dents plus blanches car ils créent un bon contraste avec les dents. Le bleu clair et le rose clair peuvent aussi éclaircir les dents. Évitez de choisir des couleurs d'appareils dentaires qui sont trop proches de votre couleur naturelle de dents, car elles ne fourniront pas assez de contraste."
+        },
+        "item-4": {
+          "question": "Le noir est-il une bonne couleur pour les appareils dentaires?",
+          "answer": "Le noir peut être une bonne couleur d'appareil dentaire s'il complète votre teint de peau et style personnel. Il est audacieux et élégant, créant un fort contraste qui peut faire paraître les dents plus blanches. Cependant, il peut être trop dramatique pour certaines personnes ou environnements formels."
+        },
+        "item-5": {
+          "question": "Le rose est-il une bonne couleur pour les appareils dentaires?",
+          "answer": "Le rose peut être une excellente couleur d'appareil dentaire, surtout pour ceux avec la peau claire. Il est mignon, féminin et peut faire paraître les dents plus blanches en créant du contraste. Le rose est populaire parmi les patients plus jeunes et ceux qui veulent un look plus doux et féminin."
+        }
+      }
+    }
+  }
+}

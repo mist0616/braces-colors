@@ -1,0 +1,145 @@
+{
+  "Metadata": {
+    "name": "Beste Zahnspangen-Farben",
+    "title": "Beste Zahnspangen-Farben 2025 - Kostenloser Online-Farbführer",
+    "description": "Bester Zahnspangen-Farbführer und kostenloses Online-Farbwerkzeug. Wählen Sie aus über 30 Farben einschließlich Schwarz, Blau, süße Farben für Mädchen. Keine Registrierung erforderlich, 100% privat. Finden Sie heute Ihre perfekte Zahnspangen-Farbe!"
+  },
+  "Common": {
+    "language": "Sprache wechseln",
+    "mode": {
+      "label": "Modus umschalten",
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    },
+    "theme": {
+      "label": "Design umschalten",
+      "default": "Standard",
+      "blue": "Blau",
+      "green": "Grün",
+      "amber": "Bernstein",
+      "neutral": "Neutral"
+    },
+    "copy": "Kopieren",
+    "saving": "Speichern...",
+    "save": "Speichern",
+    "loading": "Laden...",
+    "cancel": "Abbrechen",
+    "logoutFailed": "Abmelden fehlgeschlagen"
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Entschuldigung, die gesuchte Seite existiert nicht.",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "ErrorPage": {
+    "title": "Hoppla! Etwas ist schiefgelaufen!",
+    "tryAgain": "Erneut versuchen",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "DocsPage": {
+    "toc": "Inhaltsverzeichnis",
+    "search": "Dokumente durchsuchen",
+    "lastUpdate": "Zuletzt aktualisiert am",
+    "searchNoResult": "Keine Ergebnisse",
+    "previousPage": "Vorherige",
+    "nextPage": "Nächste",
+    "chooseLanguage": "Sprache auswählen",
+    "title": "Zahnspangen-Farbführer",
+    "homepage": "Startseite",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {},
+    "footer": {
+      "tagline": "Kostenloser Online-Zahnspangen-Farbwähler, um Ihnen zu helfen, die perfekte Farbe zu finden",
+      "legal": {
+        "title": "Rechtliches",
+        "items": {
+          "privacyPolicy": "Datenschutzrichtlinie",
+          "termsOfService": "Nutzungsbedingungen"
+        }
+      }
+    }
+  },
+  "bracesSimulator": {
+    "title": "Beste Zahnspangen-Farben 2025",
+    "description": "Kostenloses Online-Zahnspangen-Farbwerkzeug mit über 30 Farben einschließlich Schwarz, Blau, süße Farben für Mädchen. Keine Registrierung erforderlich, 100% privat.",
+    "subtitle": "Wählen Sie Ihre Lieblings-Zahnspangen-Farbe aus unserem Farbführer",
+    "preview": {
+      "title": "Zahnspangen-Vorschau",
+      "currentColor": "Aktuelle Farbe",
+      "hint": "Die transparenten Teile des Zahnspangen-Bildes zeigen die ausgewählte Hintergrundfarbe"
+    },
+    "colors": {
+      "title": "Farbe wählen",
+      "selectColor": "Auswählen",
+      "customColor": "Benutzerdefinierte Farbe",
+      "customColorPicker": "Farbwähler",
+      "customColorInput": "Hex-Farbwert",
+      "customColorHint": "Geben Sie den Hex-Farbwert ein (z.B. #FF0000) oder verwenden Sie den Farbwähler oben",
+      "selectedColor": "Aktuell ausgewählte Farbe",
+      "colorNames": {
+        "#ef4444": "Rot",
+        "#f97316": "Orange",
+        "#eab308": "Gelb",
+        "#22c55e": "Grün",
+        "#3b82f6": "Blau",
+        "#8b5cf6": "Lila",
+        "#ec4899": "Rosa",
+        "#6b7280": "Grau",
+        "#000000": "Schwarz",
+        "#ffffff": "Weiß",
+        "#06b6d4": "Cyan",
+        "#84cc16": "Lime",
+        "#f59e0b": "Gold",
+        "#dc2626": "Karmesin",
+        "#7c3aed": "Violett",
+        "#059669": "Smaragd",
+        "#f43f5e": "Rose",
+        "#8b5a2b": "Braun",
+        "#64748b": "Schiefer",
+        "#14b8a6": "Türkis",
+        "#a855f7": "Lavendel",
+        "#fb7185": "Koralle",
+        "#65a30d": "Olive",
+        "#0891b2": "Himmel",
+        "#7c2d12": "Kastanie",
+        "#be123c": "Rubin",
+        "#166534": "Wald",
+        "#1e40af": "Marine",
+        "#6d28d9": "Indigo"
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Beste Zahnspangen-Farben 2025",
+    "description": "Kostenloses Online-Zahnspangen-Farbwerkzeug mit über 30 Farben einschließlich Schwarz, Blau, süße Farben für Mädchen. Keine Registrierung erforderlich, 100% privat.",
+    "faqs": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Basierend auf echten Suchdaten von Benutzern, die nach Zahnspangen-Farbberatung suchen",
+      "items": {
+        "item-1": {
+          "question": "Welche Zahnspangen-Farbe sollte ich wählen?",
+          "answer": "Die beste Zahnspangen-Farbe hängt von Ihrem Hautton, Zahnfarbe und persönlichem Stil ab. Beliebte Wahlmöglichkeiten sind Weiß/Silber (lässt Zähne weißer aussehen), Hellblau (frisch und natürlich), Rosa (süß und feminin), Schwarz (mutig und modisch), und Lila (lustig und kreativ). Berücksichtigen Sie Ihren Hautton - helle Haut sieht mit hellen Farben großartig aus, während dunklere Haut besser zu tieferen Farben passt."
+        },
+        "item-2": {
+          "question": "Was sind die besten Farben für Zahnspangen?",
+          "answer": "Die beliebtesten Zahnspangen-Farben sind: Weiß/Silber (lässt Zähne weißer aussehen), Hellblau (frisch und natürlich), Rosa (süß und feminin), Schwarz (mutig und modisch), und Lila (lustig und kreativ). Diese Farben sind beliebt, weil sie verschiedene Hauttöne und persönliche Stile ergänzen und gleichzeitig die Zähne am besten aussehen lassen."
+        },
+        "item-3": {
+          "question": "Welche Zahnspangen-Farbe lässt Ihre Zähne weißer aussehen?",
+          "answer": "Weiße, silberne und hellgraue Zahnspangen lassen Zähne weißer aussehen, weil sie guten Kontrast zu den Zähnen schaffen. Hellblau und Hellrosa können auch Zähne aufhellen. Vermeiden Sie die Wahl von Zahnspangen-Farben, die zu nah an Ihrer natürlichen Zahnfarbe liegen, da sie nicht genügend Kontrast bieten."
+        },
+        "item-4": {
+          "question": "Ist Schwarz eine gute Farbe für Zahnspangen?",
+          "answer": "Schwarz kann eine gute Zahnspangen-Farbe sein, wenn es Ihren Hautton und persönlichen Stil ergänzt. Es ist mutig und modisch und schafft starken Kontrast, der Zähne weißer aussehen lassen kann. Es kann jedoch für manche Menschen oder formelle Umgebungen zu dramatisch sein."
+        },
+        "item-5": {
+          "question": "Ist Rosa eine gute Farbe für Zahnspangen?",
+          "answer": "Rosa kann eine großartige Zahnspangen-Farbe sein, besonders für diejenigen mit heller Haut. Es ist süß, feminin und kann Zähne weißer aussehen lassen, indem es Kontrast schafft. Rosa ist beliebt bei jüngeren Patienten und denen, die ein weicheres, feminineres Aussehen wünschen."
+        }
+      }
+    }
+  }
+}

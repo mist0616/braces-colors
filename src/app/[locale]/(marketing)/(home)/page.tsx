@@ -3,6 +3,9 @@ import { getUrlWithLocale } from '@/lib/urls/urls';
 import type { Metadata } from 'next';
 import type { Locale } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
+import { BracesColorSimulator } from '@/components/braces-color/simulator';
+import BracesColorFaqs from '@/components/braces-color/faqs';
+import { BracesColorHeader } from '@/components/braces-color/header';
 
 /**
  * https://next-intl.dev/docs/environments/actions-metadata-route-handlers#metadata-api
@@ -32,8 +35,12 @@ export default async function HomePage(props: HomePageProps) {
   const t = await getTranslations('HomePage');
 
   return (
-    <>
-      <div className="flex flex-col">{/* ... */}</div>
-    </>
+    <div className="flex flex-col">
+      <BracesColorHeader />
+
+      <BracesColorSimulator />
+
+      <BracesColorFaqs />
+    </div>
   );
 }
