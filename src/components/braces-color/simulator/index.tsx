@@ -96,7 +96,7 @@ export const BracesColorSimulator: React.FC = () => {
   const displayDimensions = getResponsiveDimensions();
 
   return (
-    <Container className="py-16">
+    <Container className="py-8">
       <div className="space-y-6">
         {/* Main content area */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">

@@ -8,8 +8,8 @@ export function BracesColorHeader() {
   const t = useTranslations('HomePage');
 
   return (
-    <div className="text-center py-16">
-      <h1 className="text-4xl font-bold text-foreground mb-8">{t('title')}</h1>
+    <div className="text-center py-8">
+      <h1 className="text-4xl font-bold text-foreground mb-4">{t('title')}</h1>
       <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
         {t('description')}
       </p>
