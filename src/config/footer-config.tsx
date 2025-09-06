@@ -20,6 +20,16 @@ export function getFooterLinks(): NestedMenuItem[] {
 
   return [
     {
+      title: t('tools.title'),
+      items: [
+        {
+          title: t('tools.items.chartMaker'),
+          href: 'https://chartmaker.online',
+          external: true,
+        },
+      ],
+    },
+    {
       title: t('legal.title'),
       items: [
         {

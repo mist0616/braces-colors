@@ -53,6 +53,12 @@
     "navbar": {},
     "footer": {
       "tagline": "Free online braces color picker to help you find the perfect braces color",
+      "tools": {
+        "title": "Tools",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "Legal",
         "items": {

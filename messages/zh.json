@@ -53,6 +53,12 @@
     "navbar": {},
     "footer": {
       "tagline": "免费在线牙套颜色搭配工具，让您轻松找到最适合的牙套颜色",
+      "tools": {
+        "title": "工具",
+        "items": {
+          "chartMaker": "Chart Maker"
+        }
+      },
       "legal": {
         "title": "法律",
         "items": {
