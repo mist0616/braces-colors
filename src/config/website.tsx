@@ -56,58 +56,6 @@ export const websiteConfig: WebsiteConfig = {
         flag: '🇨🇳',
         name: '中文',
       },
-      es: {
-        flag: '🇪🇸',
-        name: 'Español',
-      },
-      pt: {
-        flag: '🇵🇹',
-        name: 'Português',
-      },
-      de: {
-        flag: '🇩🇪',
-        name: 'Deutsch',
-      },
-      fr: {
-        flag: '🇫🇷',
-        name: 'Français',
-      },
-      ja: {
-        flag: '🇯🇵',
-        name: '日本語',
-      },
-      ko: {
-        flag: '🇰🇷',
-        name: '한국어',
-      },
-      id: {
-        flag: '🇮🇩',
-        name: 'Bahasa Indonesia',
-      },
-      ru: {
-        flag: '🇷🇺',
-        name: 'Русский',
-      },
-      th: {
-        flag: '🇹🇭',
-        name: 'ไทย',
-      },
-      vi: {
-        flag: '🇻🇳',
-        name: 'Tiếng Việt',
-      },
-      it: {
-        flag: '🇮🇹',
-        name: 'Italiano',
-      },
-      ar: {
-        flag: '🇸🇦',
-        name: 'العربية',
-      },
-      hi: {
-        flag: '🇮🇳',
-        name: 'हिन्दी',
-      },
     },
   },
   docs: {
